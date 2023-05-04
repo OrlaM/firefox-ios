@@ -54,7 +54,7 @@ class ContentContainer: UIView {
     /// Add content view controller to the container, we remove the previous content if present before adding new one
     /// - Parameter viewController: The view controller to add
     func add(content: ContentContainable) {
-        removePreviousContent()
+        //removePreviousContent()
         saveContentType(content: content)
         addToView(content: content)
     }

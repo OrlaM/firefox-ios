@@ -105,13 +105,15 @@ class BrowserCoordinator: BaseCoordinator, LaunchCoordinatorDelegate, BrowserDel
 
     func show(webView: WKWebView?) {
         // Navigate with a new webview, or to the existing one
-        if let webView = webView {
+        if let webviewController = webviewController {
+            browserViewController.view.bringSubviewToFront(webviewController.view)
+            return
+            //browserViewController.embedContent(webviewController)
+        } else if let webView = webView {
             let webviewViewController = WebviewViewController(webView: webView)
             webviewController = webviewViewController
             // Make sure we show the latest webview if we are provided with one
             browserViewController.embedContent(webviewViewController, forceEmbed: true)
-        } else if let webviewController = webviewController {
-            browserViewController.embedContent(webviewController)
         } else {
             logger.log("Webview controller couldn't be shown, this shouldn't happen.",
                        level: .fatal,
