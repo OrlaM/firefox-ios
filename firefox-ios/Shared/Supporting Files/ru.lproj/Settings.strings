@@ -119,22 +119,13 @@
 "Settings.Browsing.Title.v137" = "Просмотр сайтов";
 
 /* Title for a link that explains how Mozilla send crash reports. */
-"Settings.CrashReports.Link.v135" = "Подробнее.";
-
-/* Title for a link that explains how Mozilla send crash reports. */
 "Settings.CrashReports.Link.v136" = "Подробнее";
-
-/* On the Settings screen, this is the subtitle text for a toggle which controls automatically sending crash reports. */
-"Settings.CrashReports.Message.v135" = "Сообщения о падении позволяют нам диагностировать и устранять проблемы с браузером.";
 
 /* On the Settings screen, this is the subtitle text for a toggle which controls automatically sending crash reports. */
 "Settings.CrashReports.Message.v136" = "Это помогает нам диагностировать и устранять проблемы с браузером.";
 
 /* On the Settings screen, this is the title text for a toggle which controls automatically sending crash reports. */
 "Settings.CrashReports.Title.v135" = "Автоматически отправлять сообщения о падениях";
-
-/* Title for a link that explains how Mozilla send daily usage ping. */
-"Settings.DailyUsagePing.Link.v135" = "Подробнее.";
 
 /* Title for a link that explains how Mozilla send daily usage ping. */
 "Settings.DailyUsagePing.Link.v136" = "Подробнее";
@@ -158,7 +149,7 @@
 "Settings.Notifications.SystemNotificationsDisabledMessage.v112" = "Вы отключили все уведомления %1$@. Включите их, выбрав «Настройки» > «Уведомления» > «%2$@»";
 
 /* This is the description for the setting that toggles Tips and Features feature in the settings menu under the Notifications section. %@ is the app name (e.g. Firefox). */
-"Settings.Notifications.TipsAndFeaturesNotificationsStatus.v112" = "Узнайте о полезных функциях и о том, как максимально эффективно использовать %@.";
+"Settings.Notifications.TipsAndFeaturesNotificationsStatus.v112" = "Узнавайте о полезных функциях и о том, как максимально эффективно использовать %@.";
 
 /* This is the title for the setting that toggles Tips and Features feature in the settings menu under the Notifications section. */
 "Settings.Notifications.TipsAndFeaturesNotificationsTitle.v112" = "Советы и особенности";
@@ -239,7 +230,7 @@
 "Settings.Studies.Link.v136" = "Подробнее";
 
 /* A short description that explains that Mozilla is running studies */
-"Settings.Studies.Message.v136" = "Опробуйте функции и идеи перед тем, как они станут доступны для всех и каждого.";
+"Settings.Studies.Message.v136" = "Опробуйте функции и идеи до того, как они станут доступны для всех.";
 
 /* Label used as a toggle item in Settings. When this is off, the user is opting out of all studies. */
 "Settings.Studies.Title.v136" = "Устанавливать и запускать исследования";
@@ -263,19 +254,10 @@
 "Settings.Summarize.Title.v142" = "Резюме страниц";
 
 /* Title for a link that explains how Mozilla send technical and interaction data. */
-"Settings.TechnicalData.Link.v135" = "Подробнее.";
-
-/* Title for a link that explains how Mozilla send technical and interaction data. */
 "Settings.TechnicalData.Link.v136" = "Подробнее";
-
-/* On the Settings screen, this is the subtitle text for a toggle which controls sending technical and interaction data. %1$@ is the company name (e.g. Mozilla), %2$@ is the app name (e.g. Firefox). */
-"Settings.TechnicalData.Message.v135" = "%1$@ стремится собирать только то, что нам необходимо для предоставления и улучшения %2$@ для всех.";
 
 /* On the Settings screen, this is the subtitle text for a toggle which controls sending technical and interaction data. %@ is the app name (e.g. Firefox). */
 "Settings.TechnicalData.Message.v136" = "Данные о вашем устройстве, конфигурации оборудования и использовании помогают нам улучшить функции, производительность и стабильность %@.";
-
-/* On the Settings screen, this is the title text for a toggle which controls sending technical and interaction data. */
-"Settings.TechnicalData.Title.v135" = "Технические данные и данные взаимодействия";
 
 /* On the Settings screen, this is the title text for a toggle which controls sending technical and interaction data. */
 "Settings.TechnicalData.Title.v136" = "Отправлять технические данные и данные взаимодействия";
