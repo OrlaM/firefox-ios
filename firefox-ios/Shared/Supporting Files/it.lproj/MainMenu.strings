@@ -244,6 +244,9 @@
 /* On the main menu, the accessibility label for the action (Share with others) that will take the user/open (to) the Share submenu. */
 "MainMenu.Submenus.Tools.AccessibilityLabels.Share.Title.v132" = "Condividi";
 
+/* On the main menu, the accessibility label for the action (Share with others) that will take the user/open (to) the Share submenu. */
+"MainMenu.Submenus.Tools.AccessibilityLabels.Share.Title.v144" = "Condividi";
+
 /* On the main menu, a string below the Tool submenu accessibility label, indicating what kind of tools are available in that menu. This string is for the Zoom tool and is indicating that under the Tools submenu, a Zoom (apply zoom on a page) action is available. */
 "MainMenu.Submenus.Tools.AccessibilityLabels.Zoom.Subtitle.v132" = "Zoom";
 
@@ -292,6 +295,9 @@
 /* On the main menu, the title for the action that will take the user to the Share module in the application. */
 "MainMenu.Submenus.Tools.Share.Title.v131" = "Condividi";
 
+/* On the main menu, the title for the action that will take the user to the Share module in the application. */
+"MainMenu.Submenus.Tools.Share.Title.v144" = "Condividi";
+
 /* On the main menu, the title for the action that will turn Website's Dark Mode off in the application. */
 "MainMenu.Submenus.Tools.WebsiteDarkMode.Off.Title.v137" = "Disattiva modalità scura per i siti web";
 
@@ -329,7 +335,7 @@
 "MainMenu.TabsSection.NewTab.Title.v131" = "Nuova scheda";
 
 /* On the main menu, the accessibility label hint for the action that will show more menu options in the current section of the menu. */
-"MainMenu.ToolsSection.AccessibilityLabels.CollapsedHint.v142" = "Raggruppato";
+"MainMenu.ToolsSection.AccessibilityLabels.CollapsedHint.v142" = "Compresso";
 
 /* On the main menu, the accessibility label for the action that will switch a site user agent value, if available. */
 "MainMenu.ToolsSection.AccessibilityLabels.DesktopSite.Title.v141" = "Sito desktop";

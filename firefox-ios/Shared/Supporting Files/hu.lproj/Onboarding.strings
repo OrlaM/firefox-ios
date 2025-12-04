@@ -44,7 +44,7 @@
 "Onboarding.Customization.Theme.Skip.Action.v123" = "Kihagyás";
 
 /* On the theme customization onboarding card, the string used to describe the option to set the theme to system theme from the available choices. */
-"Onboarding.Customization.Theme.System.Action.v123" = "Rendszer alapértelmezése";
+"Onboarding.Customization.Theme.System.Action.v123" = "Rendszertéma";
 
 /* String used to describe the title of the theme customization onboarding page in our Onboarding screens. */
 "Onboarding.Customization.Theme.Title.v123" = "Válasszon témát";
@@ -140,13 +140,13 @@
 "Onboarding.Modern.TermsOfService.Subtitle.v140" = "Villámgyors oldalbetöltés\nAutomatikus követésvédelem\nSzinkronizálás az összes eszközén";
 
 /* Agreement text for Terms of Service in the Terms of Service screen. %@ is the Terms of Service link button that redirect the user to the Terms of Service page. */
-"Onboarding.Modern.TermsOfService.TermsOfServiceAgreement.v140" = "A folytatással elfogadja az %@";
+"Onboarding.Modern.TermsOfService.TermsOfServiceAgreement.v140" = "A folytatással elfogadja a %@";
 
 /* Title for the Terms of Service screen in the onboarding process. */
 "Onboarding.Modern.TermsOfService.Title.v140" = "Tegye jobbá a böngészését";
 
 /* Title for the Terms of Use button link, in the Terms of Use screen for redirecting the user to the Terms of Use page. %@ is the app name (e.g. Firefox). */
-"Onboarding.Modern.TermsOfUse.TermsOfUseLink.v140" = "A %@ felhasználási feltételei.";
+"Onboarding.Modern.TermsOfUse.TermsOfUseLink.v140" = "%@ felhasználási feltételeit.";
 
 /* Describes the action on the first onboarding page in our Onboarding screen. This indicates that the user will set their default browser to Firefox. */
 "Onboarding.Modern.Welcome.ActionTreatementA.v140" = "Beállítás alapértelmezett böngészőként";
@@ -158,7 +158,7 @@
 "Onboarding.Modern.Welcome.Skip.v140" = "Most nem";
 
 /* String used to describes the title of what Firefox is on the welcome onboarding page for current version in our Onboarding screens. */
-"Onboarding.Modern.Welcome.Title.v140" = "Mondjon búcsút a hátborzongató reklámoknak";
+"Onboarding.Modern.Welcome.Title.v140" = "Intsen búcsút a hátborzongató reklámoknak";
 
 /* String used to describe the option to continue to ask for the notification permission in Firefox Onboarding screens. */
 "Onboarding.Notification.Continue.Action.v114" = "Folytatás";
@@ -176,7 +176,7 @@
 "Onboarding.Notification.TurnOnNotifications.Action.v114" = "Értesítések bekapcsolása";
 
 /* String used to describes the description of what Firefox is on the Sync onboarding page for current version in our Onboarding screens. %@ is the app name (e.g. Firefox). */
-"Onboarding.Sync.Description.v123" = "Ha szinkronizálva van, akkor a %@ titkosítja a jelszavait, könyvjelzőit és egyebeket.";
+"Onboarding.Sync.Description.v123" = "A szinkronizálás során a %@ titkosítja a jelszavait, könyvjelzőit és egyebeit.";
 
 /* String used to describes the option to skip the Sync sign in during onboarding for the current version in Firefox Onboarding screens. */
 "Onboarding.Sync.SignIn.Action.v114" = "Bejelentkezés";
@@ -186,12 +186,6 @@
 
 /* String used to describes the title of what Firefox is on the Sync onboarding page for current version in our Onboarding screens. */
 "Onboarding.Sync.Title.v120" = "Maradjon titkosítva, amikor az eszközök között vált";
-
-/* Title for the confirmation button for Terms of Service agreement, in the Terms of Service screen. */
-"Onboarding.TermsOfService.AgreementButtonTitle.v135" = "Elfogadás és folytatás";
-
-/* Title for the confirmation button for Terms of Service agreement, in the Terms of Service screen. */
-"Onboarding.TermsOfService.AgreementButtonTitle.v136" = "Elfogadás és folytatás";
 
 /* Title for the confirmation button for Terms of Service agreement, in the Terms of Service screen. */
 "Onboarding.TermsOfService.AgreementButtonTitle.v140" = "Folytatás";
@@ -207,9 +201,6 @@
 
 /* Title for the Privacy Notice button link, in the Terms of Service screen for redirecting the user to the Privacy Notice page. */
 "Onboarding.TermsOfService.PrivacyNoticeLink.v135" = "Adatvédelmi nyilatkozatban";
-
-/* A text that indicate to the user, a link button is available to be clicked for reading more information about the option that is going to choose in Manage Privacy Preferences screen, where user can choose from the option to send data to Firefox or not. */
-"Onboarding.TermsOfService.PrivacyPreferences.LearnMore.v135" = "További információk.";
 
 /* A text that indicate to the user, a link button is available to be clicked for reading more information about the option that is going to choose in Manage Privacy Preferences screen, where user can choose from the option to send data to Firefox or not. */
 "Onboarding.TermsOfService.PrivacyPreferences.LearnMore.v136" = "További tudnivalók";
@@ -234,9 +225,6 @@
 
 /* Agreement text for Terms of Service in the Terms of Service screen. %@ is the Terms of Service link button that redirect the user to the Terms of Service page. */
 "Onboarding.TermsOfService.TermsOfServiceAgreement.v135" = "A folytatással elfogadja az %@.";
-
-/* Title for the Terms of Service button link, in the Terms of Service screen for redirecting the user to the Terms of Service page. %@ is the app name (e.g. Firefox). */
-"Onboarding.TermsOfService.TermsOfServiceLink.v135" = "%@ szolgáltatási feltételei";
 
 /* Title for the Terms of Service screen in the onboarding process. %@ is the app name (e.g. Firefox). */
 "Onboarding.TermsOfService.Title.v135" = "Üdvözli a %@";
