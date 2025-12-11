@@ -80,7 +80,7 @@
 "Back" = "后退";
 
 /* Block pop-up windows setting */
-"Block Pop-up Windows" = "阻止弹出窗口";
+"Block Pop-up Windows" = "阻止弹出式窗口";
 
 /* The label for the Title field when editing a bookmark */
 "Bookmark.DetailFieldTitle.Label" = "标题";
@@ -1160,7 +1160,7 @@
 "Settings.Appearance.WebsiteAppearance.SectionHeader.v137" = "网站外观";
 
 /* Under Website Appearance section in Appearance menu, this is the text under the toggle describing the dark mode feature. */
-"Settings.Appearance.WebsiteDarkMode.Description.v137" = "为网站提供深色外观。部分网站显示效果可能异常。";
+"Settings.Appearance.WebsiteDarkMode.Description.v137" = "为网站提供深色外观。可能造成部分网站显示效果异常。";
 
 /* Under Website Appearance section in Appearance menu, this is the title of the toggle to switch dark theme on/off. */
 "Settings.Appearance.WebsiteDarkModeToggle.Title.v137" = "网站深色模式";
@@ -1688,7 +1688,7 @@
 "TabTray.OpenNewTab.KeyCodeTitle" = "打开新标签页";
 
 /* The title on the button to look at private tabs. */
-"TabTray.SegmentedControlTitles.PrivateTabs" = "隐私";
+"TabTray.SegmentedControlTitles.PrivateTabs" = "隐私浏览";
 
 /* The title on the button to look at synced tabs. */
 "TabTray.SegmentedControlTitles.SyncedTabs" = "已同步";
