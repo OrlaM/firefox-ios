@@ -41,7 +41,7 @@
 "MainMenu.Account.SignedOut.Description.v131" = "Synchronizujte heslá, karty a ďalšie položky";
 
 /* On the main menu, when the user is signed out. The description for the sign in action */
-"MainMenu.Account.SignedOut.Description.v141" = "Synchronizácia záložiek, hesiel, kariet a ďalších položiek";
+"MainMenu.Account.SignedOut.Description.v141" = "Synchronizujte svoje záložky, heslá, karty a ďalšie položky";
 
 /* On the main menu, at the top, when the user is signed out. The title for the sign in action */
 "MainMenu.Account.SignedOut.Title.v131" = "Prihlásiť sa";
@@ -62,7 +62,7 @@
 "MainMenu.DesktopSiteOn.Title.v142" = "Zapnutá";
 
 /* On the main menu, at the top, subtitle for the banner which suggest user can set Firefox as default browser. */
-"MainMenu.HeaderBanner.Subtitle.v142" = "Trvá to pár sekúnd. Zmeniť môžete kedykoľvek.";
+"MainMenu.HeaderBanner.Subtitle.v142" = "Trvá to pár sekúnd. Zmeniť to môžete kedykoľvek.";
 
 /* On the main menu, at the top, title for the banner which suggest user can set Firefox as default browser. %@ is the app name */
 "MainMenu.HeaderBanner.Title.v142" = "Nastavte si %@ ako predvolený";
@@ -244,6 +244,9 @@
 /* On the main menu, the accessibility label for the action (Share with others) that will take the user/open (to) the Share submenu. */
 "MainMenu.Submenus.Tools.AccessibilityLabels.Share.Title.v132" = "Zdieľať";
 
+/* On the main menu, the accessibility label for the action (Share with others) that will take the user/open (to) the Share submenu. */
+"MainMenu.Submenus.Tools.AccessibilityLabels.Share.Title.v144" = "Zdieľať";
+
 /* On the main menu, a string below the Tool submenu accessibility label, indicating what kind of tools are available in that menu. This string is for the Zoom tool and is indicating that under the Tools submenu, a Zoom (apply zoom on a page) action is available. */
 "MainMenu.Submenus.Tools.AccessibilityLabels.Zoom.Subtitle.v132" = "Lupa";
 
@@ -291,6 +294,9 @@
 
 /* On the main menu, the title for the action that will take the user to the Share module in the application. */
 "MainMenu.Submenus.Tools.Share.Title.v131" = "Zdieľať";
+
+/* On the main menu, the title for the action that will take the user to the Share module in the application. */
+"MainMenu.Submenus.Tools.Share.Title.v144" = "Zdieľať";
 
 /* On the main menu, the title for the action that will turn Website's Dark Mode off in the application. */
 "MainMenu.Submenus.Tools.WebsiteDarkMode.Off.Title.v137" = "Vypnúť tmavý režim webových stránok";
