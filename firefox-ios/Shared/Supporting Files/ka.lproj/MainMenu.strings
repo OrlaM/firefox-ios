@@ -50,7 +50,7 @@
 "MainMenu.Account.SyncError.Description.v131" = "დასინქრონება შეჩერებულია";
 
 /* On the main menu, at the top, when the user is signed in but there was an error syncing. The title for this state. */
-"MainMenu.Account.SyncError.Title.v131" = "კვლავ შესვლა სინქრონიზაციისთვის";
+"MainMenu.Account.SyncError.Title.v131" = "კვლავ შესვლა და სინქ.";
 
 /* On the main menu,the title for the menu component that allows a user to save a bookmark for this particular page.. */
 "MainMenu.BookmarkPage.Title.v141" = "გვერდის ჩანიშვნა";
@@ -244,6 +244,9 @@
 /* On the main menu, the accessibility label for the action (Share with others) that will take the user/open (to) the Share submenu. */
 "MainMenu.Submenus.Tools.AccessibilityLabels.Share.Title.v132" = "გაზიარება";
 
+/* On the main menu, the accessibility label for the action (Share with others) that will take the user/open (to) the Share submenu. */
+"MainMenu.Submenus.Tools.AccessibilityLabels.Share.Title.v144" = "გაზიარება";
+
 /* On the main menu, a string below the Tool submenu accessibility label, indicating what kind of tools are available in that menu. This string is for the Zoom tool and is indicating that under the Tools submenu, a Zoom (apply zoom on a page) action is available. */
 "MainMenu.Submenus.Tools.AccessibilityLabels.Zoom.Subtitle.v132" = "ზომის ცვლა";
 
@@ -291,6 +294,9 @@
 
 /* On the main menu, the title for the action that will take the user to the Share module in the application. */
 "MainMenu.Submenus.Tools.Share.Title.v131" = "გაზიარება";
+
+/* On the main menu, the title for the action that will take the user to the Share module in the application. */
+"MainMenu.Submenus.Tools.Share.Title.v144" = "გაზიარება";
 
 /* On the main menu, the title for the action that will turn Website's Dark Mode off in the application. */
 "MainMenu.Submenus.Tools.WebsiteDarkMode.Off.Title.v137" = "საიტის ჩამუქების გამორთვა";
