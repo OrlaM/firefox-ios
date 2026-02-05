@@ -41,7 +41,7 @@
 "ActivityStream.TopSites.RowSettingFooter" = "Definir linhas";
 
 /* Accessibility label for the Add Tab button in the Tab Tray. */
-"Add Tab" = "Adicionar aba aos favoritos";
+"Add Tab" = "Adicionar aba";
 
 /* Name for button adding current article to reading list in reader mode */
 "Add to Reading List" = "Adicionar à lista de leitura";
@@ -56,7 +56,7 @@
 "AddPass.Error.Message" = "Ocorreu um erro ao adicionar a senha no Passbook. Tente novamente mais tarde.";
 
 /* Title of the 'Add Pass Failed' alert. See https://support.apple.com/HT204003 for context on Wallet. */
-"AddPass.Error.Title" = "Falha ao adicionar senha";
+"AddPass.Error.Title" = "Falha ao adicionar passe";
 
 /* Accessibility label for address and search field, both words (Address, Search) are therefore nouns. */
 "Address and Search" = "Endereço e pesquisa";
@@ -845,7 +845,7 @@
 "Menu.TrackingProtectionDescription.SocialNetworksNew" = "Redes sociais colocam rastreadores em outros sites para traçar um perfil seu mais completo e direcionado. Bloquear esses rastreadores reduz o quanto as empresas de mídias sociais conseguem ver o que você faz online.";
 
 /* The title that shows the number of fingerprinting scripts blocked */
-"Menu.TrackingProtectionFingerprintersBlocked.Title" = "Fingerprinters";
+"Menu.TrackingProtectionFingerprintersBlocked.Title" = "Rastreadores de identidade digital (fingerprinters)";
 
 /* The title for the option to view the What's new page. */
 "Menu.WhatsNew.Title" = "Novidades";
@@ -1424,7 +1424,7 @@
 "Settings.OfferClipboardBar.Status" = "Ao abrir o Firefox";
 
 /* Description displayed under the ”Offer to Open Copied Link” option. See https://bug1223660.bmoattachments.org/attachment.cgi?id=8898349. %@ is for the app name. */
-"Settings.OfferClipboardBar.Status.v128" = "Ao abrir %@";
+"Settings.OfferClipboardBar.Status.v128" = "Ao abrir o %@";
 
 /* Title of setting to enable the Go to Copied URL feature. See https://bug1223660.bmoattachments.org/attachment.cgi?id=8898349 */
 "Settings.OfferClipboardBar.Title" = "Oferecer abrir links copiados";
@@ -1433,7 +1433,7 @@
 "Settings.OpenWith.PageTitle" = "Abrir links de email com";
 
 /* Label used as an item in Settings. When touched it will open a dialog to configure the open with (mail links) behavior. */
-"Settings.OpenWith.SectionName" = "App de email";
+"Settings.OpenWith.SectionName" = "Aplicativo de email";
 
 /* Touch ID prompt subtitle when accessing logins and passwords */
 "Settings.Passwords.FingerPrintReason.v103" = "Use agora sua digital para acessar senhas.";
@@ -1472,7 +1472,7 @@
 "Settings.ShowLinkPreviews.StatusV2" = "Ao manter links pressionados";
 
 /* Title of setting to enable link previews when long-pressing links. */
-"Settings.ShowLinkPreviews.Title" = "Mostrar exibição prévia do link";
+"Settings.ShowLinkPreviews.Title" = "Mostrar exibição prévia de links";
 
 /* Setting to show Logins & Passwords quick access in the application menu */
 "Settings.ShowLoginsInAppMenu.Title" = "Exibir no menu do aplicativo";

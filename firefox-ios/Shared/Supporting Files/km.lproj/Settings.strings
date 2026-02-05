@@ -1,0 +1,12 @@
+/* Settings section title for the old Firefox account */
+"FxA.FirefoxAccount.v119" = "គណនី";
+
+/* This is the title for Links customization under the Browsing settings section. */
+"Settings.Browsing.Links.v137" = "តំណភ្ជាប់";
+
+/* This is the title for Media customization under the Browsing settings section. */
+"Settings.Browsing.Media.v137" = "មេឌៀ";
+
+/* Title displayed in header of the FxA settings panel. */
+"Settings.FxA.Title.v119" = "គណនី";
+
