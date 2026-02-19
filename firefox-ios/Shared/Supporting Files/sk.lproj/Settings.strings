@@ -119,22 +119,13 @@
 "Settings.Browsing.Title.v137" = "Prehliadanie";
 
 /* Title for a link that explains how Mozilla send crash reports. */
-"Settings.CrashReports.Link.v135" = "Ďalšie informácie.";
-
-/* Title for a link that explains how Mozilla send crash reports. */
 "Settings.CrashReports.Link.v136" = "Ďalšie informácie";
-
-/* On the Settings screen, this is the subtitle text for a toggle which controls automatically sending crash reports. */
-"Settings.CrashReports.Message.v135" = "Správy o zlyhaní nám umožňujú diagnostikovať a opraviť problémy s prehliadačom.";
 
 /* On the Settings screen, this is the subtitle text for a toggle which controls automatically sending crash reports. */
 "Settings.CrashReports.Message.v136" = "Toto nám pomáha diagnostikovať a riešiť problémy s prehliadačom.";
 
 /* On the Settings screen, this is the title text for a toggle which controls automatically sending crash reports. */
 "Settings.CrashReports.Title.v135" = "Automaticky odosielať správy o zlyhaní";
-
-/* Title for a link that explains how Mozilla send daily usage ping. */
-"Settings.DailyUsagePing.Link.v135" = "Ďalšie informácie.";
 
 /* Title for a link that explains how Mozilla send daily usage ping. */
 "Settings.DailyUsagePing.Link.v136" = "Ďalšie informácie";
@@ -179,7 +170,7 @@
 "Settings.ScrollToHideTabAndAddressBar.Title.v138" = "Karty a panel s adresou skrývať rolovaním";
 
 /* Accessibility label for default search engine setting. */
-"Settings.Search.Accessibility.DefaultSearchEngine.v121" = "Predvolený vyhľadávací modul";
+"Settings.Search.Accessibility.DefaultSearchEngine.v121" = "Predvolený vyhľadávač";
 
 /* Accessibility label for Learn more about Firefox Suggest. */
 "Settings.Search.Accessibility.LearnAboutSuggestions.v124" = "Ďalšie informácie o Návrhoch Firefoxu";
@@ -188,7 +179,7 @@
 "Settings.Search.AlternateSearchEngines.Title.v124.v2" = "Alternatívne vyhľadávače";
 
 /* Title for the `default search engine` settings section in the Search page in the Settings menu. */
-"Settings.Search.DefaultSearchEngine.Title.v121" = "Predvolený vyhľadávací modul";
+"Settings.Search.DefaultSearchEngine.Title.v121" = "Predvolený vyhľadávač";
 
 /* Title for the `Suggestions from Search Engines` settings section in the Search page in the Settings menu. */
 "Settings.Search.EnginesSuggestions.Title.v124" = "Návrhy z vyhľadávačov";
@@ -263,19 +254,10 @@
 "Settings.Summarize.Title.v142" = "Súhrny stránok";
 
 /* Title for a link that explains how Mozilla send technical and interaction data. */
-"Settings.TechnicalData.Link.v135" = "Ďalšie informácie.";
-
-/* Title for a link that explains how Mozilla send technical and interaction data. */
 "Settings.TechnicalData.Link.v136" = "Ďalšie informácie";
-
-/* On the Settings screen, this is the subtitle text for a toggle which controls sending technical and interaction data. %1$@ is the company name (e.g. Mozilla), %2$@ is the app name (e.g. Firefox). */
-"Settings.TechnicalData.Message.v135" = "%1$@ sa snaží zbierať len to, čo potrebujeme, aby sme mohli poskytovať a zlepšovať %2$@ pre každého.";
 
 /* On the Settings screen, this is the subtitle text for a toggle which controls sending technical and interaction data. %@ is the app name (e.g. Firefox). */
 "Settings.TechnicalData.Message.v136" = "Údaje o vašom zariadení, konfigurácii hardvéru a používaní nám pomáhajú zlepšovať funkcie, výkon a stabilitu %@u.";
-
-/* On the Settings screen, this is the title text for a toggle which controls sending technical and interaction data. */
-"Settings.TechnicalData.Title.v135" = "Technické údaje a údaje o interakciách";
 
 /* On the Settings screen, this is the title text for a toggle which controls sending technical and interaction data. */
 "Settings.TechnicalData.Title.v136" = "Odosielať technické údaje a údaje o interakciách";
