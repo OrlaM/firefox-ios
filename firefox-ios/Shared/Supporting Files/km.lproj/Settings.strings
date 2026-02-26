@@ -1,0 +1,267 @@
+/* This label is used for a button in the address list screen allowing users to manage their saved addresses. It's meant to direct users to where they can add, remove, or edit their saved addresses. */
+"Addresses.ManageAddressesButton.v130" = "គ្រប់គ្រងអាសយដ្ឋាន";
+
+/* Accessibility label for an address list item in autofill settings screen. The %@ parameter is the address of the user that will read the name, street, city, state, postal code if available. */
+"Addresses.Settings.ListItemA11y.v130" = "អាសយដ្ឋានសម្រាប់ %@";
+
+/* On the autofill settings screen, a label for the section that displays the list of saved addresses. This label adds additional context for users regarding the toggle switch that allows saving and autofilling of addresses for webpages. */
+"Addresses.Settings.SavedAddressesSectionTitle.v124" = "អាសយដ្ឋានដែលបានរក្សាទុក";
+
+/* Title text for the content unavailable view informing users they can create or add new addresses. %@ is the name of the app. */
+"Addresses.Settings.SaveToFirefox.Title.v130" = "រក្សាទុកអាសយដ្ឋានទៅ %@";
+
+/* Description text for the content unavailable view informing users they can create or add new addresses. */
+"Addresses.Settings.SecureSaveInfo.Description.v130" = "រក្សាទុកព័ត៌មានរបស់អ្នកដោយសុវត្ថិភាព ដើម្បីចូលប្រើវាបានរហ័សនៅពេលក្រោយ។";
+
+/* On the autofill settings screen, a label under the title label to add additional context for user in regards to what the toggle switch that allow saving and autofilling of addresses for webpages does, letting users know that this action includes phone numbers and email addresses. */
+"Addresses.Settings.Switch.Description.v124" = "រួមបញ្ចូលលេខទូរស័ព្ទ និងអាសយដ្ឋានអ៊ីមែល";
+
+/* Title label for user to use the toggle settings to allow saving and autofilling of addresses for webpages. */
+"Addresses.Settings.Switch.Title.v124" = "រក្សាទុក និងបំពេញអាសយដ្ឋាន";
+
+/* Displayed inside the keyboard hint when a user is entering their address and has at least one saved address. Indicates that there are stored addresses available for use in filling out a form. */
+"Addresses.Settings.UseSavedAddressFromKeyboard.v124" = "ប្រើប្រាស់អាសយដ្ឋានដែលបានរក្សាទុក";
+
+/* Accessibility label for the add button in autofill settings screen. Pressing this button presents a modal that allows users to add a card by entering the credit card information. */
+"CreditCard.Settings.AddCard.AccessibilityLabel.v121" = "បន្ថែមកាត";
+
+/* Description label for when there are no credit cards shown in credit card list in autofill settings screen. */
+"CreditCard.Settings.EmptyListDescription.v112" = "រក្សាទុកព័ត៌មានកាតរបស់អ្នកដោយសុវត្ថិភាព ដើម្បីទូទាត់ប្រាក់បានលឿនជាងមុននៅពេលក្រោយ។";
+
+/* Title label for when there are no credit cards shown in credit card list in autofill settings screen. %@ is the product name and should not be altered. */
+"CreditCard.Settings.EmptyListTitle.v122" = "រក្សាទុកកាតទៅក្នុង %@";
+
+/* Accessibility label for a credit card list item in autofill settings screen. %1$@ is the credit card issuer (e.g. Visa), %2$@ is the name of the credit card holder, %3$@ is the last 4 digits of the credit card, %4$@ is the card's expiration date. */
+"CreditCard.Settings.ListItemA11y.v118" = "%1$@ ចេញឱ្យ %2$@ ដែលបញ្ចប់ដោយ %3$@ ផុតកំណត់ %4$@";
+
+/* When a user is in the process or has finished making a purchase with a card not saved in Firefox's list of stored cards, we ask the user if they would like to save this card for future purchases. This string indicates to users that they can deny Firefox from remembering the card that is being used. */
+"CreditCard.Settings.NotNow.v122" = "មិន​មែន​ឥឡូវ";
+
+/* When a user is in the process or has finished making a purchase with a card not saved in Firefox's list of stored cards, we ask the user if they would like to save this card for future purchases. This string is a title string of the overall message that asks the user if they would like Firefox to remember the card that is being used. */
+"CreditCard.Settings.RememberThisCard.v122" = "រក្សាទុកកាតនេះដោយសុវត្ថិភាព?";
+
+/* When a user is in the process or has finished making a purchase with a remembered card, and if the credit card information doesn't match the contents of the stored information of that card, we show this string. We ask this user if they would like Firefox update the staled information of that credit card. */
+"CreditCard.Settings.UpdateThisCard.v122" = "ធ្វើបច្ចុប្បន្នភាពកាត?";
+
+/* When a user is in the process or has finished making a purchase with a card not saved in Firefox's list of stored cards, we ask the user if they would like to save this card for future purchases. This string asks users to confirm if they would like Firefox to remember the card that is being used. */
+"CreditCard.Settings.Yes.v122" = "ធ្វើ​បច្ចុប្បន្នភាព";
+
+/* When a user is in the process of making a purchase and has at least one saved credit card, a view above the keyboard shows actions a user can take. When tapping this label, the keyboard will dismiss from view. */
+"CreditCards.Settings.Done.v114" = "ធ្វើ​រួច";
+
+/* When a user is in the process or has finished making a purchase, and has at least one card saved, we show this tappable string. This indicates to users that they can navigate to their list of stored credit cards in the app's credit card list screen. */
+"CreditCards.Settings.ManageCards.v112" = "គ្រប់គ្រងកាត";
+
+/* When a user is in the process of making a purchase, and has at least one saved card, we show this label used as a title. This indicates to the user that there are stored cards available for use on this pending purchase. */
+"CreditCards.Settings.UseASavedCard.v122" = "ប្រើកាតដែលបានរក្សាទុក";
+
+/* When a user is in the process of making a purchase, and has at least one saved card, we show this label inside the keyboard hint. This indicates to the user that there are stored cards available for use on this pending purchase. */
+"CreditCards.Settings.UseSavedCardFromKeyboard.v112" = "ប្រើកាតដែលបានរក្សាទុក";
+
+/* Settings section title for the old Firefox account */
+"FxA.FirefoxAccount.v119" = "គណនី";
+
+/* Label used as an item in Settings screen. When touched, it will take user to address autofill settings page to that will allow user to add or modify saved addresses to allow for autofill in a webpage. */
+"Settings.AddressAutofill.Title.v126" = "អាសយដ្ឋាន";
+
+/* Default section header title under page zoom settings. Indicates the default value for all websites */
+"Settings.Appearance.Zoom.Default.Title.v140" = "លំនាំ​ដើម";
+
+/* Button to reset specific zoom site levels back to default */
+"Settings.Appearance.Zoom.Reset.Button.v140" = "កំណត់ការកំណត់គេហទំព័រឡើងវិញ";
+
+/* Page zoom section header title in Appearance settings */
+"Settings.Appearance.Zoom.SectionHeader.v140" = "ការកំណត់ពង្រីក";
+
+/* Specific site settings section footer title under page zoom settings. Explain how to add elements to the list */
+"Settings.Appearance.Zoom.SpecificSiteZoom.Footer.v140" = "ដើម្បីបន្ថែមទៅក្នុងបញ្ជីនេះ សូមចូលទៅកាន់គេហទំព័រ ហើយកែតម្រូវការពង្រីកទំព័រ ពីម៉ឺនុយ";
+
+/* Specific site settings section header title under page zoom settings. List all websites with custom zoom level */
+"Settings.Appearance.Zoom.SpecificSiteZoom.Title.v140" = "ការកំណត់ជាក់លាក់សម្រាប់គេហទំព័រ";
+
+/* Page zoom settings title in Appearance settings */
+"Settings.Appearance.Zoom.Title.v140" = "ពង្រីកទំព័រ";
+
+/* Zoom level title under page zoom settings to select the default zoom level for all websites */
+"Settings.Appearance.Zoom.ZoomLevelTitle.v140" = "កម្រិតពង្រីក";
+
+/* In the settings menu, in the General section, this is the title for Autofills & Passwords customization section. */
+"Settings.AutofillAndPassword.Title.v137" = "ការបំពេញដោយស្វ័យប្រវត្តិ និងពាក្យសម្ងាត់";
+
+/* Label used as an item in Settings screen. When touched, it will take user to credit card settings page to that will allows to add or modify saved credit cards to allow for autofill in a webpage. */
+"Settings.AutofillCreditCard.Title.v122" = "វិធីសាស្ត្រទូទាត់";
+
+/* In the settings menu, in the Autoplay customization section, this label indicates that selecting this will allow audio and video content to autoplay. */
+"Settings.Autoplay.AllowAudioAndVideo.v137" = "អនុញ្ញាត​សំឡេង និង​វីដេអូ";
+
+/* In the settings menu, in the Autoplay customization section, this label indicates that selecting this will block audio from autoplaying. */
+"Settings.Autoplay.BlockAudio.v137" = "ទប់ស្កាត់សំឡេង";
+
+/* In the settings menu, in the Autoplay customization section, this label indicates that selecting this will block audio and video content from autoplaying. */
+"Settings.Autoplay.BlockAudioAndVideo.v137" = "ទប់ស្កាត់សំឡេង និងវីដេអូ";
+
+/* In the settings menu, in the Autoplay customization section, this label indicates that selecting this will block audio and video content from autoplaying. */
+"Settings.Autoplay.Footer.v137" = "ការកំណត់ចាក់ដោយស្វ័យប្រវត្តិ អនុវត្តតែលើផ្ទាំងដែលបានបើកថ្មីប៉ុណ្ណោះ។ ការផ្លាស់ប្តូរមិនអាចអនុវត្តលើផ្ទាំងដែលមានស្រាប់ លុះត្រាតែបិទហើយបើកកម្មវិធីឡើងវិញ។";
+
+/* In the settings menu, this label indicates that there is an option of customizing the Autoplay behaviour. */
+"Settings.Autoplay.SettingsTitle.v137" = "ចាក់ដោយស្វ័យប្រវត្តិ";
+
+/* This is the title for Links customization under the Browsing settings section. */
+"Settings.Browsing.Links.v137" = "តំណភ្ជាប់";
+
+/* This is the title for Media customization under the Browsing settings section. */
+"Settings.Browsing.Media.v137" = "មេឌៀ";
+
+/* This is the title for Tabs customization under the Browsing settings section. */
+"Settings.Browsing.Tabs.v137" = "ផ្ទាំង";
+
+/* In the settings menu, in the General section, this is the title for Browsing customization section. */
+"Settings.Browsing.Title.v137" = "ការរុករក";
+
+/* Title for a link that explains how Mozilla send crash reports. */
+"Settings.CrashReports.Link.v136" = "ស្វែងយល់​បន្ថែម";
+
+/* On the Settings screen, this is the subtitle text for a toggle which controls automatically sending crash reports. */
+"Settings.CrashReports.Message.v136" = "ដើម្បីជួយយើងក្នុងការធ្វើការវិនិច្ឆ័យ និងជួសជុលបញ្ហាជាមួយកម្មវិធីរុករក។";
+
+/* On the Settings screen, this is the title text for a toggle which controls automatically sending crash reports. */
+"Settings.CrashReports.Title.v135" = "ផ្ញើរបាយការណ៍គាំងដោយស្វ័យប្រវត្តិ";
+
+/* Title for a link that explains how Mozilla send daily usage ping. */
+"Settings.DailyUsagePing.Link.v136" = "ស្វែងយល់​បន្ថែម";
+
+/* On the Settings screen, this is the subtitle text for a toggle which controls sending daily usage ping. %@ is the company name (e.g. Mozilla). */
+"Settings.DailyUsagePing.Message.v135" = "ដើម្បីជួយ %@ ក្នុងការប៉ាន់ស្មានអ្នកប្រើប្រាស់សកម្ម។";
+
+/* On the Settings screen, this is the title text for a toggle which controls automatically sending daily usage ping. */
+"Settings.DailyUsagePing.Title.v135" = "ការប្រើប្រាស់ប្រចាំថ្ងៃ Ping";
+
+/* Title displayed in header of the FxA settings panel. */
+"Settings.FxA.Title.v119" = "គណនី";
+
+/* This is the description for the setting that toggles Sync related notifications in the settings menu under the Notifications section. */
+"Settings.Notifications.SyncNotificationsStatus.v112" = "វាត្រូវតែបើក ដើម្បីទទួលបានផ្ទាំង និងទទួលបានការជូនដំណឹងនៅពេលអ្នកចូលនៅលើឧបករណ៍ផ្សេងទៀត។";
+
+/* This is the title for the setting that toggles Sync related notifications in the settings menu under the Notifications section. */
+"Settings.Notifications.SyncNotificationsTitle.v112" = "ធ្វើសមកាលកម្ម";
+
+/* This is the footer title informing the user needs to turn on notifications in iOS Settings. Both %1$@ and %2$@ are the app name (e.g. Firefox). */
+"Settings.Notifications.SystemNotificationsDisabledMessage.v112" = "អ្នក​បាន​បិទ​ការ​ជូន​ដំណឹង %1$@ ទាំងអស់។ បើក​វា​ដោយ​ចូល​ទៅ​កាន់​ ការ​កំណត់​ឧបករណ៍ > ការ​ជូន​ដំណឹង > %2$@";
+
+/* This is the description for the setting that toggles Tips and Features feature in the settings menu under the Notifications section. %@ is the app name (e.g. Firefox). */
+"Settings.Notifications.TipsAndFeaturesNotificationsStatus.v112" = "ស្វែងយល់អំពីមុខងារមានប្រយោជន៍ និងរបៀបទទួលបានអត្ថប្រយោជន៍ច្រើនបំផុតពី %@។";
+
+/* This is the title for the setting that toggles Tips and Features feature in the settings menu under the Notifications section. */
+"Settings.Notifications.TipsAndFeaturesNotificationsTitle.v112" = "គន្លឹះ និងលក្ខណៈពិសេស";
+
+/* In the settings menu, in the Privacy section, this is the title for Notifications customization section. */
+"Settings.Notifications.Title.v112" = "ការជូនដំណឹង";
+
+/* This is the title informing the user that they need to turn on notifications in iOS Settings. %@ is the app name (e.g. Firefox). */
+"Settings.Notifications.TurnOnNotificationsMessage.v112" = "ចូលទៅកាន់ការកំណត់ឧបករណ៍របស់អ្នក ដើម្បីបើកការជូនដំណឹងនៅក្នុង %@";
+
+/* This is the title informing the user that they need to turn on notifications in iOS Settings. */
+"Settings.Notifications.TurnOnNotificationsTitle.v112" = "បើកការជូនដំណឹង";
+
+/* Show Firefox Browser Privacy Notice page from the Privacy section in the settings. See https://www.mozilla.org/privacy/firefox/ */
+"Settings.PrivacyNotice.Title.v137" = "សេចក្តីជូនដំណឹងអំពីឯកជនភាព";
+
+/* In the settings menu, in the General section, this is the title for the option that allows user to disable the autohide feature of the tab and address bar. */
+"Settings.ScrollToHideTabAndAddressBar.Title.v138" = "រំកិលដើម្បីលាក់ផ្ទាំង និងរបារអាសយដ្ឋាន";
+
+/* Accessibility label for default search engine setting. */
+"Settings.Search.Accessibility.DefaultSearchEngine.v121" = "ម៉ាស៊ីនស្វែងរកលំនាំដើម";
+
+/* Accessibility label for Learn more about Firefox Suggest. */
+"Settings.Search.Accessibility.LearnAboutSuggestions.v124" = "ស្វែងយល់បន្ថែមអំពី Firefox Suggest";
+
+/* Title for alternate search engines settings section in the Search page in the Settings menu. */
+"Settings.Search.AlternateSearchEngines.Title.v124.v2" = "ម៉ាស៊ីនស្វែងរកជំនួស";
+
+/* Title for the `default search engine` settings section in the Search page in the Settings menu. */
+"Settings.Search.DefaultSearchEngine.Title.v121" = "ម៉ាស៊ីន​ស្វែងរក​លំនាំដើម";
+
+/* Title for the `Suggestions from Search Engines` settings section in the Search page in the Settings menu. */
+"Settings.Search.EnginesSuggestions.Title.v124" = "ការណែនាំពីម៉ាស៊ីនស្វែងរក";
+
+/* Navigation title for search page in the Settings menu. */
+"Settings.Search.PageTitle.v121" = "ស្វែងរក";
+
+/* Description for `Show in Private Sessions` toggle, located in `Suggestions from Search Engines` section in the Search page in the Settings menu. */
+"Settings.Search.PrivateSession.Description.v125" = "បង្ហាញ​ការ​ផ្ដល់​យោបល់​ពី​ម៉ាស៊ីន​ស្វែងរក​ក្នុង​វគ្គ​ឯកជន";
+
+/* Label for toggle. Explains that in private browsing mode, the search suggestions which appears at the top of the search bar, can be toggled on or off. Located in `Suggestions from Search Engines` and `Address Bar - Firefox Suggest` sections in the Search page in the Settings menu. */
+"Settings.Search.PrivateSession.Setting.v124" = "បង្ហាញក្នុងវគ្គឯកជន";
+
+/* Label for the `show search suggestions` setting, in the Search Settings page. */
+"Settings.Search.ShowSuggestions.v121" = "បង្ហាញ​ការណែនាំ​ស្វែងរក";
+
+/* In the Search page of the Settings menu, the title for the Firefox Suggest settings section. */
+"Settings.Search.Suggest.AddressBarSetting.Title.v124" = "របារអាសយដ្ឋាន - ការណែនាំរបស់ Firefox";
+
+/* In the search page of the Settings menu, the title for the link to the SUMO Page about Firefox Suggest. */
+"Settings.Search.Suggest.LearnAboutSuggestions.v124" = "ស្វែងយល់បន្ថែមអំពី Firefox Suggest";
+
+/* Description for `Show in Private Sessions` toggle, located in `Address Bar - Firefox Suggest` section in the Search page in the Settings menu. */
+"Settings.Search.Suggest.PrivateSession.Description.v125" = "បង្ហាញ​ការ​ផ្ដល់​យោបល់​ពី Firefox Suggest ក្នុង​វគ្គ​ឯកជន";
+
+/* In the Search page of the Settings menu, the title for the setting to enable search browsing history. */
+"Settings.Search.Suggest.SearchBrowsingHistory.Title.v124" = "ស្វែងរកប្រវត្តិរុករក";
+
+/* In the Search page of the Settings menu, the title for the setting to enable search bookmarks. */
+"Settings.Search.Suggest.SearchSearchBookmarks.Title.v124" = "ស្វែងរក​ចំណាំ";
+
+/* In the Search page of the Settings menu, the title for the setting to enable synced tabs. */
+"Settings.Search.Suggest.SearchSyncedTabs.Title.v124" = "ស្វែងរកផ្ទាំងដែលបានធ្វើសមកាលកម្ម";
+
+/* In the Search page of the Settings menu, the description for the setting to enable Suggestions from Firefox. %@ is the app name (e.g. Firefox). - Firefox. */
+"Settings.Search.Suggest.ShowNonSponsoredSuggestions.Description.v124.v2" = "ទទួលបានការណែនាំពី %@ ដែលទាក់ទងនឹងការស្វែងរករបស់អ្នក";
+
+/* In the Search page of the Settings menu, the title for setting to enable Suggestions from the web in Firefox. */
+"Settings.Search.Suggest.ShowNonSponsoredSuggestions.Title.v124.v2" = "ការណែនាំពីគេហទំព័រ";
+
+/* In the Search page of the Settings menu, the description for the setting to enable Suggestions from sponsors. %@ is the app name (e.g. Firefox). - Firefox. */
+"Settings.Search.Suggest.ShowSponsoredSuggestions.Description.v124" = "គាំទ្រ %@ ដោយមានសំណើឧបត្ថម្ភជាប្រចាំ";
+
+/* In the Search page of the Settings menu, the title for the setting to enable Suggestions from sponsors. */
+"Settings.Search.Suggest.ShowSponsoredSuggestions.Title.v124" = "សំណើពីអ្នកឧបត្ថម្ភ";
+
+/* Title for a link that explains what Mozilla means by Studies */
+"Settings.Studies.Link.v136" = "ស្វែងយល់​បន្ថែម";
+
+/* A short description that explains that Mozilla is running studies */
+"Settings.Studies.Message.v136" = "សាកល្បងមុខងារ និងគំនិត មុនពេលវាត្រូវបានចេញផ្សាយទៅអ្នកប្រើទាំងអស់។";
+
+/* Label used as a toggle item in Settings. When this is off, the user is opting out of all studies. */
+"Settings.Studies.Title.v136" = "ដំឡើង និងដំណើរការការសិក្សា";
+
+/* This is the footer text for the setting that toggles the Summarize feature under the Summarize settings section. */
+"Settings.Summarize.FooterTitle.v142" = "ផ្តល់សិទ្ធិចូលប្រើដើម្បីសង្ខេបទំព័រ។";
+
+/* This is the footer text for the gestures features under the Summarize settings section. */
+"Settings.Summarize.GesturesSection.FooterTitle.v142" = "គ្រវីឧបករណ៍របស់អ្នកពីម្ខាងទៅម្ខាង ដើម្បីសង្ខេបទំព័រ។";
+
+/* This is the title for the setting that toggles the Shake Gesture feature under the Summarize settings section. */
+"Settings.Summarize.GesturesSection.ShakeGestureTitle.v142" = "គ្រវីដើម្បីសង្ខេប";
+
+/* This is the section title for the gestures features under the Summarize settings section. */
+"Settings.Summarize.GesturesSection.Title.v142" = "កាយវិការ";
+
+/* This is the title for the setting that toggles the Summarize feature under the Summarize settings section. */
+"Settings.Summarize.SummarizePagesTitle.v142" = "សង្ខេបទំព័រ";
+
+/* In the settings menu, in the General section, this is the title for the Summarize settings section. */
+"Settings.Summarize.Title.v142" = "សេចក្តីសង្ខេបទំព័រ";
+
+/* Title for a link that explains how Mozilla send technical and interaction data. */
+"Settings.TechnicalData.Link.v136" = "ស្វែងយល់​បន្ថែម";
+
+/* On the Settings screen, this is the subtitle text for a toggle which controls sending technical and interaction data. %@ is the app name (e.g. Firefox). */
+"Settings.TechnicalData.Message.v136" = "ទិន្នន័យអំពីឧបករណ៍របស់អ្នក ការកំណត់រចនាសម្ព័ន្ធផ្នែករឹង និងការប្រើប្រាស់ ជួយឱ្យយើងកែលម្អមុខងារ %@ ប្រសិទ្ធភាព និងស្ថិរភាព។";
+
+/* On the Settings screen, this is the title text for a toggle which controls sending technical and interaction data. */
+"Settings.TechnicalData.Title.v136" = "ផ្ញើទិន្នន័យបច្ចេកទេស និងអន្តរកម្ម";
+
+/* Terms of Use settings section title */
+"Settings.TermsOfUse.Title.v137" = "លក្ខខណ្ឌនៃការប្រើប្រាស់";
+
