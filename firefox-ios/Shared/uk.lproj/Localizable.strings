@@ -341,7 +341,7 @@
 "FirefoxHome.Pocket.Minutes.v99" = "%d хв";
 
 /* This is the title of the Pocket section on Firefox Homepage. */
-"FirefoxHome.Pocket.SectionTitle" = "Розповіді, що спонукають замислитися";
+"FirefoxHome.Pocket.SectionTitle" = "Статті, що спонукають замислитися";
 
 /* When a user taps and holds on an item from the Recently Visited section, this label will appear indicating the option to remove that item. */
 "FirefoxHome.RecentHistory.Remove" = "Вилучити";
@@ -1415,7 +1415,7 @@
 "Settings.NewTab.TopSectionName" = "Показати";
 
 /* Footer at the bottom of the New Tab screen after entering New Tab in settings */
-"Settings.NewTab.TopSectionNameFooter" = "Оберіть, що завантажувати при відкритті нової вкладки";
+"Settings.NewTab.TopSectionNameFooter" = "Оберіть, що завантажувати під час відкриття нової вкладки";
 
 /* Label for the block images toggle displayed in the settings menu. Enabling this toggle will hide images on any webpage the user visits. */
 "Settings.NoImageModeBlockImages.Label.v99" = "Блокувати зображення";
