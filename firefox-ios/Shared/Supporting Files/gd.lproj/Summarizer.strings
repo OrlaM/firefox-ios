@@ -1,0 +1,45 @@
+/* The label displayed in the summary report when the summary was generated using Apple Intelligence. */
+"Summarizer.AppleBrand.Label.v142" = "An gèarr-chunntas le Apple Intelligence";
+
+/* The label for the error button that allows the user to close the summary view because there is an error summarizing the page and the summary cannot be retried. */
+"Summarizer.CloseButton.Label.v142" = "Dùin";
+
+/* The error message displayed when the summarizer encounters missing page content while summarizing a page (e.g the page is still loading). */
+"Summarizer.Error.MissingPageContent.Message.v142" = "Tha an duilleag ga luchdadh fhathast. Fuirich gus am bi e air a luchdadh is buail “Dèan geàrr-chunntas” an uair sin.";
+
+/* The error message displayed when the summarizer encounters a rate limit while summarizing a page. */
+"Summarizer.Error.RateLimited.Message.v142" = "Chan urrainn dhuinn seo a dhèanamh dhut an-dràsta fhèin. Feuch ris a-rithist an ceann greis!";
+
+/* The error message displayed when the summarizer encounters an unknown error while summarizing a page. */
+"Summarizer.Error.Unknown.Message.v142" = "Dh’èirich mearachd nuair a bha sinn airson geàrr-chunntas a dhèanamh. Feuch ris a-rithist.";
+
+/* The error message displayed when the summarizer encounters unsafe content while summarizing a page. */
+"Summarizer.Error.UnsafeWebsite.Message.v142" = "Mhothaich sinn nach eil cus susbaint ann. Dh’fhaodte gu bheil an duilleag seo air a chuingeachadh no nach eil cus ann ach dealbhan.";
+
+/* The error message displayed when the summarizer encounters unsupported content while summarizing a page (e.g unsupported language, content too long). */
+"Summarizer.Error.UnsupportedContent.Message.v142" = "Cha leig an làrach-lìn seo le daoine geàrr-chunntasan a dhèanamh air. Feuch duilleag eile.";
+
+/* The description is displayed at the end of the summary report as a footnote to the users in that the report can contain errors. */
+"Summarizer.Footnote.Label.v144" = "An aire: nì gleus nan geàrr-chunntasan mearachdan.";
+
+/* The label displayed in the summary report when the summary was generated using by a third-party service. %@ refers to the name of the service/app (e.g Firefox). */
+"Summarizer.HostedBrand.Label.v142" = "An geàrr-chunntas le %@";
+
+/* When the user uses the summarizing feature, this is the loading label that is shown while the summarization is being performed. */
+"Summarizer.Loading.Label.v142" = "A’ dèanamh geàrr-chunntas…";
+
+/* The label for the error button that allows the user to retry summarizing the page. */
+"Summarizer.RetryButton.Label.v142" = "Feuch ris a-rithist";
+
+/* The label for the learn more link button on the Terms of Service alert for the summarizer. */
+"Summarizer.ToS.InfoLabel.LearnMoreButton.Label.v143" = "Mar a dh’obraicheas e";
+
+/* The label for the accept button on the Terms of Service information panel in the summarizer. */
+"Summarizer.ToS.InfoPanel.ContinueButton.Label.v143" = "Lean air adhart";
+
+/* The message for the Terms of Service alert that asks the user if they want to continue to summarize the page. %@ is the app name (e.g Firefox). */
+"Summarizer.ToS.InfoPanel.Label.v143" = "Faic dè a’ bhrìgh a th’ ann am priobadh na sùla le %@.";
+
+/* The title for the Terms of Service information panel that asks the user if they want to summarize this page. */
+"Summarizer.ToS.InfoPanel.Title.Label.v143" = "Ag iarraidh geàrr-chunntas air an duilleag seo?";
+
