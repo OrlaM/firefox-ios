@@ -31,21 +31,15 @@
 /* The label for the error button that allows the user to retry summarizing the page. */
 "Summarizer.RetryButton.Label.v142" = "Reyna aftur";
 
-/* The label for the allow button on the Terms of Service alert. */
-"Summarizer.ToS.Alert.AllowButton.Label.v142" = "Leyfa";
-
-/* The message for the Terms of Service alert that asks the user if they want to allow page summaries with Apple Intelligence. %@ is the app name (e.g Firefox). */
-"Summarizer.ToS.Alert.AppleMessage.Label.v142" = "%@ notar Apple Intelligence til að gera úrdrátt úr efni á síðum.";
-
-/* The label for the cancel button on the Terms of Service alert for the summarizer. */
-"Summarizer.ToS.Alert.CancelButton.Label.v142" = "Hætta við";
-
-/* The message for the Terms of Service alert that asks the user if they want to allow page summaries with Firefox AI. %@ is the app name (e.g Firefox). */
-"Summarizer.ToS.Alert.FirefoxMessage.Label.v144" = "%@ notar gervigreind á skýjaneti til samantektar á efni síðna og skilar þeim samantektum síðan í tækið þitt.";
-
 /* The label for the learn more link button on the Terms of Service alert for the summarizer. */
-"Summarizer.ToS.Alert.LearnMoreButton.Label.v142" = "Kanna nánar";
+"Summarizer.ToS.InfoLabel.LearnMoreButton.Label.v143" = "Hvernig það virkar";
 
-/* The title for the Terms of Service alert that asks the user if they want to allow page summaries. */
-"Summarizer.ToS.Alert.Title.Label.v142" = "Leyfa samantektir efnis á síðum?";
+/* The label for the accept button on the Terms of Service information panel in the summarizer. */
+"Summarizer.ToS.InfoPanel.ContinueButton.Label.v143" = "Halda áfram";
+
+/* The message for the Terms of Service alert that asks the user if they want to continue to summarize the page. %@ is the app name (e.g Firefox). */
+"Summarizer.ToS.InfoPanel.Label.v143" = "Sjáðu aðalatriðin á nokkrum sekúndum með %@.";
+
+/* The title for the Terms of Service information panel that asks the user if they want to summarize this page. */
+"Summarizer.ToS.InfoPanel.Title.Label.v143" = "Gera samantekt efnis á síðunni?";
 
