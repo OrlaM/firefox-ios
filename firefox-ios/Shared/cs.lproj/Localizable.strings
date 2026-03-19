@@ -341,7 +341,7 @@
 "FirefoxHome.Pocket.Minutes.v99" = "%d min";
 
 /* This is the title of the Pocket section on Firefox Homepage. */
-"FirefoxHome.Pocket.SectionTitle" = "Podnětné články";
+"FirefoxHome.Pocket.SectionTitle" = "Podnětné příběhy";
 
 /* When a user taps and holds on an item from the Recently Visited section, this label will appear indicating the option to remove that item. */
 "FirefoxHome.RecentHistory.Remove" = "Odebrat";
@@ -728,7 +728,7 @@
 "Menu.Copy.Title" = "Zkopírovat adresu";
 
 /* Toast displayed to user after copy url pressed. */
-"Menu.CopyURL.Confirm" = "URL adresa zkopírována do schránky";
+"Menu.CopyURL.Confirm" = "Adresa URL zkopírována do schránky";
 
 /* Label for the customize homepage button in the menu page. Pressing this button takes users to the settings options, where they can customize the Firefox Home page */
 "Menu.CustomizeHomePage.v99" = "Přizpůsobit";
