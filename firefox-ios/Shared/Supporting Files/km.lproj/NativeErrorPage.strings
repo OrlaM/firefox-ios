@@ -1,0 +1,15 @@
+/* On error page, this is the text on a button that will try to load the page again. */
+"NativeErrorPage.ButtonLabel.v131" = "ផ្ទុក​ឡើងវិញ";
+
+/* On error page, this is the description for a generic error. %@ is the site url. */
+"NativeErrorPage.GenericError.Description.v134" = "ម្ចាស់ %@ មិនទាន់បានដំឡើងវាឱ្យបានត្រឹមត្រូវទេ ហើយការតភ្ជាប់ដែលមានសុវត្ថិភាព មិនអាចបង្កើតបានទេ។";
+
+/* On error page, this is the title for generic error. */
+"NativeErrorPage.GenericError.TitleLabel.v131" = "សូមប្រយ័ត្ន។ មានអ្វីមួយមើលទៅខុសប្រក្រតី។";
+
+/* On error page, this is the description for no internet connection. */
+"NativeErrorPage.NoInternetConnection.Description.v131" = "សាកល្បងភ្ជាប់នៅលើឧបករណ៍ផ្សេង។ ពិនិត្យមើលម៉ូដឹម ឬរ៉ោតទ័ររបស់អ្នក។ ផ្តាច់ ហើយភ្ជាប់ទៅ Wi-Fi ឡើងវិញ។";
+
+/* On error page, this is the title for no internet connection */
+"NativeErrorPage.NoInternetConnection.TitleLabel.v131" = "ហាក់ដូចជាមានបញ្ហាជាមួយការតភ្ជាប់អ៊ីនធឺណិតរបស់អ្នក។";
+

@@ -7,12 +7,9 @@
 /* The label for the error button that allows the user to retry summarizing the page. */
 "Summarizer.RetryButton.Label.v142" = "Poskusi znova";
 
-/* The label for the allow button on the Terms of Service alert. */
-"Summarizer.ToS.Alert.AllowButton.Label.v142" = "Dovoli";
-
-/* The label for the cancel button on the Terms of Service alert for the summarizer. */
-"Summarizer.ToS.Alert.CancelButton.Label.v142" = "Prekliči";
-
 /* The label for the learn more link button on the Terms of Service alert for the summarizer. */
-"Summarizer.ToS.Alert.LearnMoreButton.Label.v142" = "Več o tem";
+"Summarizer.ToS.InfoLabel.LearnMoreButton.Label.v143" = "Kako deluje";
+
+/* The label for the accept button on the Terms of Service information panel in the summarizer. */
+"Summarizer.ToS.InfoPanel.ContinueButton.Label.v143" = "Nadaljuj";
 

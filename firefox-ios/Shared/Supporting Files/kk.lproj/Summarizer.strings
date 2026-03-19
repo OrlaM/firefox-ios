@@ -31,21 +31,15 @@
 /* The label for the error button that allows the user to retry summarizing the page. */
 "Summarizer.RetryButton.Label.v142" = "Қайталау";
 
-/* The label for the allow button on the Terms of Service alert. */
-"Summarizer.ToS.Alert.AllowButton.Label.v142" = "Рұқсат ету";
-
-/* The message for the Terms of Service alert that asks the user if they want to allow page summaries with Apple Intelligence. %@ is the app name (e.g Firefox). */
-"Summarizer.ToS.Alert.AppleMessage.Label.v142" = "%@ беттерді қорытындылау үшін Apple Intelligence пайдаланады.";
-
-/* The label for the cancel button on the Terms of Service alert for the summarizer. */
-"Summarizer.ToS.Alert.CancelButton.Label.v142" = "Бас тарту";
-
-/* The message for the Terms of Service alert that asks the user if they want to allow page summaries with Firefox AI. %@ is the app name (e.g Firefox). */
-"Summarizer.ToS.Alert.FirefoxMessage.Label.v144" = "%@ беттерді қорытындылау үшін бұлтқа негізделген ЖИ пайдаланады және сол қорытындыларды құрылғыңызға қайтарады.";
-
 /* The label for the learn more link button on the Terms of Service alert for the summarizer. */
-"Summarizer.ToS.Alert.LearnMoreButton.Label.v142" = "Көбірек білу";
+"Summarizer.ToS.InfoLabel.LearnMoreButton.Label.v143" = "Ол қалай жұмыс істейді";
 
-/* The title for the Terms of Service alert that asks the user if they want to allow page summaries. */
-"Summarizer.ToS.Alert.Title.Label.v142" = "Бет қорытындыларына рұқсат беру керек пе?";
+/* The label for the accept button on the Terms of Service information panel in the summarizer. */
+"Summarizer.ToS.InfoPanel.ContinueButton.Label.v143" = "Жалғастыру";
+
+/* The message for the Terms of Service alert that asks the user if they want to continue to summarize the page. %@ is the app name (e.g Firefox). */
+"Summarizer.ToS.InfoPanel.Label.v143" = "Басты тұстарды %@ көмегімен бірнеше секундта-ақ көріңіз.";
+
+/* The title for the Terms of Service information panel that asks the user if they want to summarize this page. */
+"Summarizer.ToS.InfoPanel.Title.Label.v143" = "Бетті қорытындылау керек пе?";
 

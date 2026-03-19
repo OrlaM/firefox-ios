@@ -2,7 +2,7 @@
 "NativeErrorPage.ButtonLabel.v131" = "განახლება";
 
 /* On error page, this is the description for a generic error. %@ is the site url. */
-"NativeErrorPage.GenericError.Description.v134" = "%@ არ აქვს მფლობელს სათანადოდ გამართული და დაცული კავშირი ვერ იქმნება.";
+"NativeErrorPage.GenericError.Description.v134" = "%@ არ აქვს მფლობელს სათანადოდ გამართული და ვერ მყარდება დაცული კავშირი.";
 
 /* On error page, this is the title for generic error. */
 "NativeErrorPage.GenericError.TitleLabel.v131" = "ფრთხილად. რაღაც რიგზე ვერაა.";
@@ -11,5 +11,5 @@
 "NativeErrorPage.NoInternetConnection.Description.v131" = "სცადეთ დაკავშირება სხვა მოწყობილობიდან. შეამოწმეთ თქვენი მოდემი ან როუტერი. გამოთიშეთ და კვლავ დაუკავშირეთ WiFi.";
 
 /* On error page, this is the title for no internet connection */
-"NativeErrorPage.NoInternetConnection.TitleLabel.v131" = "როგორც ჩანს, რაღაც ხარვეზია ქსელთან კავშირისას.";
+"NativeErrorPage.NoInternetConnection.TitleLabel.v131" = "რაღაც ხარვეზია ქსელთან კავშირისას.";
 
