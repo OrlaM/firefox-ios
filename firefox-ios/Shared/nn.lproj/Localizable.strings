@@ -218,7 +218,7 @@
 "Could not load page." = "Klarte ikkje å laste sida.";
 
 /* Description for the new ETP mode i.e. standard vs strict */
-"CoverSheet.v24.ETP.Description" = "Innebygd utvida sporingsvern hindrar reklame i å følgje deg rundt på nettet. Slå på Streng for å blokkere endå fleire sporarar, reklamer og sprettopp.";
+"CoverSheet.v24.ETP.Description" = "Innebygd utvida sporingsvern hindrar reklame i å følgje deg rundt på nettet. Slå på Streng for å blokkere endå fleire sporarar, reklamar og sprettopp. ";
 
 /* Text for the new ETP settings button */
 "CoverSheet.v24.ETP.Settings.Button" = "Gå til Innstillingar";
@@ -929,7 +929,7 @@
 "Quick-Search Engines" = "Hurtigsøkjemotorar";
 
 /* A label indicating the action that a user can rate the Firefox app in the App store. */
-"Ratings.Settings.RateOnAppStore" = "Skriv ei vurdering App Store";
+"Ratings.Settings.RateOnAppStore" = "Vurder på App Store";
 
 /* Accessibility label for read article in reading list. It's a past participle - functions as an adjective. */
 "read" = "lesen";
@@ -1160,7 +1160,7 @@
 "Settings.Appearance.WebsiteAppearance.SectionHeader.v137" = "Utsjånaden på nettstaden";
 
 /* Under Website Appearance section in Appearance menu, this is the text under the toggle describing the dark mode feature. */
-"Settings.Appearance.WebsiteDarkMode.Description.v137" = "Gir nettsider ein mærk utsjånad. Nokre nettstadar vil kanskje ikkje sjå ut slik dei skal.";
+"Settings.Appearance.WebsiteDarkMode.Description.v137" = "Gir nettsider ein mørk utsjånad. Nokre nettstadar vil kanskje ikkje sjå ut slik dei skal.";
 
 /* Under Website Appearance section in Appearance menu, this is the title of the toggle to switch dark theme on/off. */
 "Settings.Appearance.WebsiteDarkModeToggle.Title.v137" = "Nettstad i mørk modus";
@@ -1220,10 +1220,10 @@
 "Settings.DisplayTheme.Manual.SwitchTitle" = "Manuelt";
 
 /* Option choice in display theme settings for dark theme */
-"Settings.DisplayTheme.OptionDark" = "Mørkt";
+"Settings.DisplayTheme.OptionDark" = "Mørk";
 
 /* Option choice in display theme settings for light theme */
-"Settings.DisplayTheme.OptionLight" = "Ljost";
+"Settings.DisplayTheme.OptionLight" = "Ljos";
 
 /* Display (theme) settings footer describing how the brightness slider works. */
 "Settings.DisplayTheme.SectionFooter" = "Temaet vil endrast automatisk basert på lysstyrken på skjermen. Du kan spesifisere terskelen der temaet skal endrast. Sirkelen indikerer gjeldande lysstyrke til skjermen.";
@@ -1556,7 +1556,7 @@
 "Settings.TrackingProtection.ProtectionLevelStandard.Description" = "Tillèt noko sporing frå reklamar slik at nettstadar fungerer rett.";
 
 /* Description for strict level tracker protection */
-"Settings.TrackingProtection.ProtectionLevelStrict.Description" = "Blokkerer fleire sporerings-mekanismar, reklamer og sprettopp. Sider vert lasta raskere, men nokre funksjonar fungerer kanskje ikkje.";
+"Settings.TrackingProtection.ProtectionLevelStrict.Description" = "Blokkerer fleire sporerings-mekanismar, reklamar og sprettopp. Sider vert lasta raskere, men nokre funksjonar fungerer kanskje ikkje.";
 
 /* Title for tracking protection options section where level can be selected. */
 "Settings.TrackingProtection.ProtectionLevelTitle" = "Vernenivå";
@@ -1589,7 +1589,7 @@
 "Settings.WebsiteData.SelectedConfirmPrompt" = "Denne handlinga vil fjerne dei valde elementa. Handlinga kan ikkje angrast.";
 
 /* Title displayed in header of the Data Management panel. */
-"Settings.WebsiteData.Title" = "Nettstaddata";
+"Settings.WebsiteData.Title" = "Nettstad-data";
 
 /* Action label on share extension to add page to the Firefox reading list. */
 "ShareExtension.AddToReadingListAction.Title" = "Legg til i leselista";

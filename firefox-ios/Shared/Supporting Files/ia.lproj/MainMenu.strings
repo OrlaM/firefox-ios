@@ -67,12 +67,6 @@
 /* On the main menu, at the top, title for the banner which suggest user can set Firefox as default browser. %@ is the app name */
 "MainMenu.HeaderBanner.Title.v142" = "Rende %@ tu predefinite";
 
-/* On the main menu, a title for a label that indicate the current option/action state is off. */
-"MainMenu.Off.Title.v141" = "Inactive";
-
-/* On the main menu, a title for a label that indicate the current option/action state is on. */
-"MainMenu.On.Title.v141" = "Active";
-
 /* On the main menu, the accessibility label for the action that will take the user to the Bookmarks panel. */
 "MainMenu.PanelLinkSection.AccessibilityLabels.Bookmarks.v132" = "Marcapaginas";
 
@@ -137,10 +131,10 @@
 "MainMenu.Submenus.Save.AccessibilityLabels.AddToHomeScreen.Title.v132" = "Adder al pagina initial";
 
 /* On the main menu, a string below the Save submenu accessibility label, indicating what kind of tools are available in that menu. This string is for the Shortcuts tool. */
-"MainMenu.Submenus.Save.AccessibilityLabels.AddToShortcuts.Subtitle.v132" = "Via breve";
+"MainMenu.Submenus.Save.AccessibilityLabels.AddToShortcuts.Subtitle.v132" = "Accesso directe";
 
 /* On the main menu, in the Save submenu, the accessibility label for the menu component that allows a user to add the current website to the shortcuts on the homepage. */
-"MainMenu.Submenus.Save.AccessibilityLabels.AddToShortcuts.Title.v132" = "Adder al vias breve";
+"MainMenu.Submenus.Save.AccessibilityLabels.AddToShortcuts.Title.v132" = "Adder al accessos directe";
 
 /* On the main menu, a string below the Save submenu accessibility label, indicating what kind of tools are available in that menu. This string is for the Bookmarks tool. */
 "MainMenu.Submenus.Save.AccessibilityLabels.BookmarkThisPage.Subtitle.v132" = "Adder marcapaginas";
@@ -155,7 +149,7 @@
 "MainMenu.Submenus.Save.AccessibilityLabels.RemoveFromReadingList.Title.v132" = "Remover del lista de lectura";
 
 /* On the main menu, in the Save submenu, the accessibility label for the menu component that allows a user to remove the current website from the shortcuts on the homepage. */
-"MainMenu.Submenus.Save.AccessibilityLabels.RemoveFromShortcuts.Title.v132" = "Remover del vias breve";
+"MainMenu.Submenus.Save.AccessibilityLabels.RemoveFromShortcuts.Title.v132" = "Remover del accessos directe";
 
 /* On the main menu, a string below the Save submenu accessibility label, indicating what kind of tools are available in that menu. This string is for the Save as PDF tool. */
 "MainMenu.Submenus.Save.AccessibilityLabels.SaveAsPDF.Subtitle.v132" = "PDF";
@@ -176,10 +170,10 @@
 "MainMenu.Submenus.Save.AddToHomeScreen.Title.v131" = "Adder al pagina initial";
 
 /* On the main menu, a string below the Save submenu title, indicating what kind of tools are available in that menu. This string is for the Shortcuts tool. */
-"MainMenu.Submenus.Save.AddToShortcuts.Subtitle.v131" = "Via breve";
+"MainMenu.Submenus.Save.AddToShortcuts.Subtitle.v131" = "Accesso directe";
 
 /* On the main menu, in the Save submenu, the title for the menu component that allows a user to add the current website to the shortcuts on the homepage. */
-"MainMenu.Submenus.Save.AddToShortcuts.Title.v131" = "Adder al vias breve";
+"MainMenu.Submenus.Save.AddToShortcuts.Title.v131" = "Adder al accessos directe";
 
 /* On the main menu, a string below the Save submenu title, indicating what kind of tools are available in that menu. This string is for the Bookmarks tool. */
 "MainMenu.Submenus.Save.BookmarkThisPage.Subtitle.v131" = "Adder marcapagina";
@@ -194,7 +188,7 @@
 "MainMenu.Submenus.Save.RemoveFromReadingList.Title.v131" = "Remover del lista de lectura";
 
 /* On the main menu, in the Save submenu, the title for the menu component that allows a user to remove the current website from the shortcuts on the homepage. */
-"MainMenu.Submenus.Save.RemoveFromShortcuts.Title.v131" = "Remover del vias breve";
+"MainMenu.Submenus.Save.RemoveFromShortcuts.Title.v131" = "Remover del accessos directe";
 
 /* On the main menu, a string below the Save submenu title, indicating what kind of tools are available in that menu. This string is for the Save as PDF tool. */
 "MainMenu.Submenus.Save.SaveAsPDF.Subtitle.v131" = "PDF";
@@ -244,6 +238,9 @@
 /* On the main menu, the accessibility label for the action (Share with others) that will take the user/open (to) the Share submenu. */
 "MainMenu.Submenus.Tools.AccessibilityLabels.Share.Title.v132" = "Compartir";
 
+/* On the main menu, the accessibility label for the action (Share with others) that will take the user/open (to) the Share submenu. */
+"MainMenu.Submenus.Tools.AccessibilityLabels.Share.Title.v144" = "Compartir";
+
 /* On the main menu, a string below the Tool submenu accessibility label, indicating what kind of tools are available in that menu. This string is for the Zoom tool and is indicating that under the Tools submenu, a Zoom (apply zoom on a page) action is available. */
 "MainMenu.Submenus.Tools.AccessibilityLabels.Zoom.Subtitle.v132" = "Zoom";
 
@@ -258,9 +255,6 @@
 
 /* On the main menu, a string below the Tool submenu tiitle, indicating what kind of tools are available in that menu. This string is for the Night Mode tool. */
 "MainMenu.Submenus.Tools.NightMode.Subtitle.v131" = "Modo nocturne";
-
-/* On the main menu, in the tools submenu, the title for the menu component that indicates the current page zoom level. %@ is the current zoom level percentage. */
-"MainMenu.Submenus.Tools.PageZoom.Title.v140" = "Zoom de pagina (%@)";
 
 /* On the main menu, in the tools submenu, the title for the menu component that indicates the current page zoom level. */
 "MainMenu.Submenus.Tools.PageZoomV2.Title.v141" = "Zoom del pagina";
@@ -291,6 +285,9 @@
 
 /* On the main menu, the title for the action that will take the user to the Share module in the application. */
 "MainMenu.Submenus.Tools.Share.Title.v131" = "Compartir";
+
+/* On the main menu, the title for the action that will take the user to the Share module in the application. */
+"MainMenu.Submenus.Tools.Share.Title.v144" = "Compartir";
 
 /* On the main menu, the title for the action that will turn Website's Dark Mode off in the application. */
 "MainMenu.Submenus.Tools.WebsiteDarkMode.Off.Title.v137" = "Disactivar modalitate obscur del sito web";

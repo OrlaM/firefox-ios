@@ -128,7 +128,7 @@
 "Onboarding.Modern.TermsOfService.PrivacyPreferences.SendCrashReportsTitle.v140" = "Αυτόματη αποστολή αναφορών κατάρρευσης";
 
 /* Description for the technical and interaction data switch option in Manage Privacy Preferences screen, where user can choose from the option to send data to Firefox or not. %1$@ is the app name (e.g. Firefox), %2$@ is for the Learn more button link, to open a link where user can find more information about this send technical and interaction data option. */
-"Onboarding.Modern.TermsOfService.PrivacyPreferences.SendTechnicalDataDescription.v140" = "Τα δεδομένα σχετικά με τη συσκευή σας, τη διαμόρφωση του υλικού της και τον τρόπο με τον οποίο χρησιμοποιείτε το %1$@ συμβάλλουν στη βελτίωση των λειτουργιών, των επιδόσεων και της σταθερότητας για τους χρήστες σε όλο τον κόσμο. %2$@";
+"Onboarding.Modern.TermsOfService.PrivacyPreferences.SendTechnicalDataDescription.v140" = "Τα δεδομένα σχετικά με τη συσκευή σας, τη διαμόρφωση του υλικού της και τον τρόπο με τον οποίο χρησιμοποιείτε το %1$@ συμβάλλουν στη βελτίωση των λειτουργιών, των επιδόσεων και της σταθερότητας για όλους τους χρήστες. %2$@";
 
 /* Title for the send technical and interaction data switch option in Manage Privacy Preferences screen, where user can choose from the option to send data to Firefox or not. %@ is the company name (e.g. Mozilla). */
 "Onboarding.Modern.TermsOfService.PrivacyPreferences.SendTechnicalDataTitle.v140" = "Αποστολή τεχνικών δεδομένων και δεδομένων αλληλεπίδρασης στη %@";
@@ -188,12 +188,6 @@
 "Onboarding.Sync.Title.v120" = "Διατηρήστε την κρυπτογράφηση κατά την εναλλαγή των συσκευών";
 
 /* Title for the confirmation button for Terms of Service agreement, in the Terms of Service screen. */
-"Onboarding.TermsOfService.AgreementButtonTitle.v135" = "Αποδοχή και συνέχεια";
-
-/* Title for the confirmation button for Terms of Service agreement, in the Terms of Service screen. */
-"Onboarding.TermsOfService.AgreementButtonTitle.v136" = "Αποδοχή και συνέχεια";
-
-/* Title for the confirmation button for Terms of Service agreement, in the Terms of Service screen. */
 "Onboarding.TermsOfService.AgreementButtonTitle.v140" = "Συνέχεια";
 
 /* Title for the Manage button link, in the Terms of Service screen for redirecting the user to the Manage data collection preferences screen. */
@@ -209,9 +203,6 @@
 "Onboarding.TermsOfService.PrivacyNoticeLink.v135" = "Σημείωση απορρήτου";
 
 /* A text that indicate to the user, a link button is available to be clicked for reading more information about the option that is going to choose in Manage Privacy Preferences screen, where user can choose from the option to send data to Firefox or not. */
-"Onboarding.TermsOfService.PrivacyPreferences.LearnMore.v135" = "Μάθετε περισσότερα.";
-
-/* A text that indicate to the user, a link button is available to be clicked for reading more information about the option that is going to choose in Manage Privacy Preferences screen, where user can choose from the option to send data to Firefox or not. */
 "Onboarding.TermsOfService.PrivacyPreferences.LearnMore.v136" = "Μάθετε περισσότερα";
 
 /* Description for the send crash reports switch option in Manage Privacy Preferences screen, where user can choose from the option to send data to Firefox or not. %@ is for the Learn more button link, to open a link where user can find more information about this send crash reports option. */
@@ -221,7 +212,7 @@
 "Onboarding.TermsOfService.PrivacyPreferences.SendCrashReportsTitle.v135" = "Αυτόματη αποστολή αναφορών κατάρρευσης";
 
 /* Description for the technical and interaction data switch option in Manage Privacy Preferences screen, where user can choose from the option to send data to Firefox or not. %1$@ is the app name (e.g. Firefox), %2$@ is for the Learn more button link, to open a link where user can find more information about this send technical and interaction data option. */
-"Onboarding.TermsOfService.PrivacyPreferences.SendTechnicalDataDescription.v135" = "Τα δεδομένα σχετικά με τη συσκευή σας, τη διαμόρφωση του υλικού της και τον τρόπο με τον οποίο χρησιμοποιείτε το %1$@ συμβάλλουν στη βελτίωση των λειτουργιών, των επιδόσεων και της σταθερότητας για τους χρήστες σε όλο τον κόσμο. %2$@";
+"Onboarding.TermsOfService.PrivacyPreferences.SendTechnicalDataDescription.v135" = "Τα δεδομένα σχετικά με τη συσκευή σας, τη διαμόρφωση του υλικού της και τον τρόπο με τον οποίο χρησιμοποιείτε το %1$@ συμβάλλουν στη βελτίωση των λειτουργιών, των επιδόσεων και της σταθερότητας για όλους τους χρήστες. %2$@";
 
 /* Title for the send technical and interaction data switch option in Manage Privacy Preferences screen, where user can choose from the option to send data to Firefox or not. %@ is the company name (e.g. Mozilla). */
 "Onboarding.TermsOfService.PrivacyPreferences.SendTechnicalDataTitle.v135" = "Αποστολή τεχνικών δεδομένων και δεδομένων αλληλεπίδρασης στη %@";
@@ -234,9 +225,6 @@
 
 /* Agreement text for Terms of Service in the Terms of Service screen. %@ is the Terms of Service link button that redirect the user to the Terms of Service page. */
 "Onboarding.TermsOfService.TermsOfServiceAgreement.v135" = "Συνεχίζοντας, συμφωνείτε με τους %@";
-
-/* Title for the Terms of Service button link, in the Terms of Service screen for redirecting the user to the Terms of Service page. %@ is the app name (e.g. Firefox). */
-"Onboarding.TermsOfService.TermsOfServiceLink.v135" = "Όρους υπηρεσίας του %@.";
 
 /* Title for the Terms of Service screen in the onboarding process. %@ is the app name (e.g. Firefox). */
 "Onboarding.TermsOfService.Title.v135" = "Καλώς ορίσατε στο %@";
