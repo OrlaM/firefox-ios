@@ -64,6 +64,51 @@
 /* Label used as an item in Settings screen. When touched, it will take user to address autofill settings page to that will allow user to add or modify saved addresses to allow for autofill in a webpage. */
 "Settings.AddressAutofill.Title.v126" = "Adresler";
 
+/* In the AI Controls settings, in the AI powered features section, this is the text that indicates the feature is turned on. */
+"Settings.AIControls.AIPoweredFeaturesSection.AvailableStatus.v151" = "Kullanılabilir";
+
+/* In the AI Controls settings, in the AI powered features section, this is the text that what the available status means. The content between the ** ** is bolded. Please do not remove these in translation. */
+"Settings.AIControls.AIPoweredFeaturesSection.AvailableStatusDescription.v151" = "**Kullanılabilir**: Bu özelliği görecek ve kullanabileceksiniz.";
+
+/* In the AI Controls settings, in the AI powered features section, this is the text that indicates the feature is turned off. */
+"Settings.AIControls.AIPoweredFeaturesSection.BlockedStatus.v151" = "Engellendi";
+
+/* In the AI Controls settings, in the AI powered features section, this is the text that what the blocked status means. The content between the ** ** is bolded. Please do not remove these in translation. */
+"Settings.AIControls.AIPoweredFeaturesSection.BlockedStatusDescription.v151" = "**Engellendi**: Bu özelliği görmeyecek ve kullanamayacaksınız. Cihaza indirilmiş yapay zekâ modelleri kaldırılacaktır.";
+
+/* In the AI Controls settings, in the AI powered features section, this is the message that describes the pages summaries feature */
+"Settings.AIControls.AIPoweredFeaturesSection.PageSummariesSection.Message.v151" = "Sayfalar ve özetler asla depolanmaz.";
+
+/* In the AI Controls settings, in the AI powered features section, this is the title that describes the page summaries feature */
+"Settings.AIControls.AIPoweredFeaturesSection.PageSummariesSection.Title.v151" = "Sayfa özetleri";
+
+/* In the AI Controls settings, this is the title for the section that describes AI-powered features. This is uppercase to match the style on iOS apps. */
+"Settings.AIControls.AIPoweredFeaturesSection.Title.v151" = "YAPAY ZEKÂ ÖZELLİKLERİ";
+
+/* In the AI Controls settings, in the AI powered features section, this is the message that describes the translation feature */
+"Settings.AIControls.AIPoweredFeaturesSection.TranslationSection.Message.v151" = "Çeviriler gizli kalır ve cihazınızdan dışarı çıkmaz.";
+
+/* In the AI Controls settings, in the AI powered features section, this is the title that describes the translation feature */
+"Settings.AIControls.AIPoweredFeaturesSection.TranslationSection.Title.v151" = "Çeviri";
+
+/* In the AI Controls settings, this is the text for the link that takes the user more information on AI features. */
+"Settings.AIControls.BlockAIEnhancementsLink.v151" = "Nelerin dahil olup nelerin olmadığını görün";
+
+/* This is the title for the setting that toggles whether to block AI enhancements under the AI Controls settings section. */
+"Settings.AIControls.BlockAIEnhancementsTitle.v151" = "Yapay zekâ geliştirmelerini engelle";
+
+/* In the AI Controls settings, this is the text that appears when you have turned on the Block AI Enhancements toggle */
+"Settings.AIControls.BlockedInformation.v151" = "Yeni ve mevcut yapay zekâ geliştirmeleri varsayılan olarak engelleniyor. İstediğiniz özelliklerin engelini aşağıdan kaldırabilirsiniz.";
+
+/* This is the text for the link in the Header Card under the AI Controls settings section that links to more information. */
+"Settings.AIControls.HeaderCard.Link.v151" = "Daha fazla bilgi al";
+
+/* This is the message for the Header Card under the AI Controls settings section. */
+"Settings.AIControls.HeaderCard.Message.v151" = "Yapay zekâ sayesinde çalışan özelliklerin kullanılması da dahildir.";
+
+/* This is the title for the Header Card under the AI Controls settings section. %@ is the app name (e.g. Firefox). */
+"Settings.AIControls.HeaderCard.Title.v151" = "%@ ile tercih daima sizin";
+
 /* In the settings menu, in the General section, this is the title for the AI Controls settings section */
 "Settings.AIControls.Title.v150" = "Yapay zekâ kontrolleri";
 
