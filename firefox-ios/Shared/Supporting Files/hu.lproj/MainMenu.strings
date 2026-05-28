@@ -173,7 +173,7 @@
 "MainMenu.Submenus.Save.AddToShortcuts.Subtitle.v131" = "Indítóikon";
 
 /* On the main menu, in the Save submenu, the title for the menu component that allows a user to add the current website to the shortcuts on the homepage. */
-"MainMenu.Submenus.Save.AddToShortcuts.Title.v131" = "Hozzáadás a Parancsokhoz";
+"MainMenu.Submenus.Save.AddToShortcuts.Title.v131" = "Hozzáadás az indítóikonokhoz";
 
 /* On the main menu, a string below the Save submenu title, indicating what kind of tools are available in that menu. This string is for the Bookmarks tool. */
 "MainMenu.Submenus.Save.BookmarkThisPage.Subtitle.v131" = "Könyvjelző hozzáadása";
@@ -188,7 +188,7 @@
 "MainMenu.Submenus.Save.RemoveFromReadingList.Title.v131" = "Eltávolítás az olvasási listáról";
 
 /* On the main menu, in the Save submenu, the title for the menu component that allows a user to remove the current website from the shortcuts on the homepage. */
-"MainMenu.Submenus.Save.RemoveFromShortcuts.Title.v131" = "Eltávolítás a Parancsokból";
+"MainMenu.Submenus.Save.RemoveFromShortcuts.Title.v131" = "Eltávolítás az indítóikonok közül";
 
 /* On the main menu, a string below the Save submenu title, indicating what kind of tools are available in that menu. This string is for the Save as PDF tool. */
 "MainMenu.Submenus.Save.SaveAsPDF.Subtitle.v131" = "PDF";
@@ -349,6 +349,9 @@
 /* On the main menu, the accessibility label for the action that will open the page zoom tool. */
 "MainMenu.ToolsSection.AccessibilityLabels.PageZoom.Title.v142" = "Oldal nagyítása";
 
+/* On the main menu, the accessibility label for the action that will show or hide the reader view of the webpage. */
+"MainMenu.ToolsSection.AccessibilityLabels.ReaderView.v150" = "Olvasó nézet";
+
 /* On the main menu, the accessibility label for the action that will take the user to the Save submenu in the menu. In the main menu, there is an option called Save that is taking the user to the Save submenu where user can share, bookmark the page and so on. */
 "MainMenu.ToolsSection.AccessibilityLabels.Save.v132" = "Mentés";
 
@@ -390,6 +393,12 @@
 
 /* On the main menu, the title for the action that will show the reader view for the webpage. */
 "MainMenu.ToolsSection.ReaderView.Title.v149" = "Olvasó nézet";
+
+/* On the main menu, the label for the action that indicates that Reader view is turned off. */
+"MainMenu.ToolsSection.ReaderViewOff.Title.v150" = "Ki";
+
+/* On the main menu, the label for the action that indicates that Reader view is turned on. */
+"MainMenu.ToolsSection.ReaderViewOn.Title.v150" = "Be";
 
 /* On the main menu, the title for the action that will take the user to the Save submenu in the menu. */
 "MainMenu.ToolsSection.SaveSubmenu.Title.v131" = "Mentés";
