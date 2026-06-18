@@ -1,11 +1,11 @@
+/* iOS Home screen shortcut menu: Option to launch the app to the app icon customization screen */
+"App Icon" = "סמל היישומון";
+
 /* (No Comment) */
 "New Private Tab" = "לשונית פרטית חדשה";
 
 /* (No Comment) */
 "New Tab" = "לשונית חדשה";
-
-/* Privacy - Camera Usage Description */
-"NSCameraUsageDescription" = "‏Firefox משתמש במצלמה שלך כדי לסרוק קודי QR, לצלם תמונות ולהקליט סרטונים.";
 
 /* Privacy - Face ID Usage Description */
 "NSFaceIDUsageDescription" = "Firefox‏ דורש שימוש ב־Face ID כדי לגשת לססמאות ולאמצעי התשלום השמורים שלך.";
