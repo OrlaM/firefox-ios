@@ -1,11 +1,11 @@
+/* iOS Home screen shortcut menu: Option to launch the app to the app icon customization screen */
+"App Icon" = "Иконица апликације";
+
 /* (No Comment) */
 "New Private Tab" = "Нови приватни језичак";
 
 /* (No Comment) */
 "New Tab" = "Нови језичак";
-
-/* Privacy - Camera Usage Description */
-"NSCameraUsageDescription" = "Firefox користи вашу камеру за скенирање КР кодова и снимање фотографија и видео записа.";
 
 /* Privacy - Face ID Usage Description */
 "NSFaceIDUsageDescription" = "Firefox захтева Face ID за приступ вашим сачуваним лозинкама и начинима плаћања.";

@@ -1,11 +1,11 @@
+/* iOS Home screen shortcut menu: Option to launch the app to the app icon customization screen */
+"App Icon" = "Ikona aplikacije";
+
 /* (No Comment) */
 "New Private Tab" = "Nov zasebni zavihek";
 
 /* (No Comment) */
 "New Tab" = "Nov zavihek";
-
-/* Privacy - Camera Usage Description */
-"NSCameraUsageDescription" = "Firefox uporablja vašo kamero za skeniranje QR-kod, fotografiranje in snemanje.";
 
 /* Privacy - Face ID Usage Description */
 "NSFaceIDUsageDescription" = "Firefox za dostop do shranjenih gesel in plačilnih sredstev zahteva Face ID.";
