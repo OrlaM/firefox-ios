@@ -1,11 +1,11 @@
+/* iOS Home screen shortcut menu: Option to launch the app to the app icon customization screen */
+"App Icon" = "应用图标";
+
 /* (No Comment) */
 "New Private Tab" = "新建隐私标签页";
 
 /* (No Comment) */
 "New Tab" = "新建标签页";
-
-/* Privacy - Camera Usage Description */
-"NSCameraUsageDescription" = "Firefox 需要使用您的相机扫码、拍摄照片或视频。";
 
 /* Privacy - Face ID Usage Description */
 "NSFaceIDUsageDescription" = "Firefox 需进行面容 ID 验证才能访问保存的密码和付款方式。";

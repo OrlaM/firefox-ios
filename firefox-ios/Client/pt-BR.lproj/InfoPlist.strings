@@ -1,11 +1,11 @@
+/* iOS Home screen shortcut menu: Option to launch the app to the app icon customization screen */
+"App Icon" = "Ícone do aplicativo";
+
 /* (No Comment) */
 "New Private Tab" = "Nova aba privativa";
 
 /* (No Comment) */
 "New Tab" = "Nova aba";
-
-/* Privacy - Camera Usage Description */
-"NSCameraUsageDescription" = "O Firefox usa sua câmera para capturar códigos QR, tirar fotos e gravar vídeos.";
 
 /* Privacy - Face ID Usage Description */
 "NSFaceIDUsageDescription" = "O Firefox requer Face ID para acessar suas senhas e métodos de pagamento salvos.";
