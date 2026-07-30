@@ -1,11 +1,11 @@
+/* iOS Home screen shortcut menu: Option to launch the app to the app icon customization screen */
+"App Icon" = "Forritstákn";
+
 /* (No Comment) */
 "New Private Tab" = "Nýr huliðsflipi";
 
 /* (No Comment) */
 "New Tab" = "Nýr flipi";
-
-/* Privacy - Camera Usage Description */
-"NSCameraUsageDescription" = "Firefox notar myndavélina þína til að skanna QR-kóða og taka myndir og myndskeið.";
 
 /* Privacy - Face ID Usage Description */
 "NSFaceIDUsageDescription" = "Firefox krefst notkunar Face ID til að fá aðgang að vistuðum lykilorðum þínum og greiðslumátum.";
