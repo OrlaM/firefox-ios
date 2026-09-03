@@ -1,11 +1,11 @@
+/* iOS Home screen shortcut menu: Option to launch the app to the app icon customization screen */
+"App Icon" = "ئەپ سىنبەلگىسى";
+
 /* (No Comment) */
 "New Private Tab" = "يېڭى شەخسىي بەتكۈچ";
 
 /* (No Comment) */
 "New Tab" = "يېڭى بەتكۈچ";
-
-/* Privacy - Camera Usage Description */
-"NSCameraUsageDescription" = "Firefox كامېرا ئارقىلىق QR كودىنى تارايدۇ ھەمدە سۈرەت تارتىپ ۋە سىنغا ئالىدۇ.";
 
 /* Privacy - Face ID Usage Description */
 "NSFaceIDUsageDescription" = "Firefox ساقلانغان ئىم ۋە پۇل تۆلەش ئۇسۇلىڭىزنى زىيارەت قىلىش ئۈچۈن چىراي كىملىكىنى تەلەپ قىلىدۇ.";

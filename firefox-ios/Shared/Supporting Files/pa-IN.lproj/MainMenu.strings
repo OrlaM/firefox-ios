@@ -295,12 +295,6 @@
 /* On the main menu, the title for the action that will take the user to the Share module in the application. */
 "MainMenu.Submenus.Tools.Share.Title.v144" = "ਸਾਂਝਾ ਕਰੋ";
 
-/* On the main menu, the title for the action that will turn Website's Dark Mode off in the application. */
-"MainMenu.Submenus.Tools.WebsiteDarkMode.Off.Title.v137" = "ਵੈੱਬਸਾਈਟ ਦੇ ਗੂੜ੍ਹੇ ਮੋਡ ਨੂੰ ਬੰਦ ਕਰੋ";
-
-/* On the main menu, the title for the action that will turn Website's Dark Mode on in the application. */
-"MainMenu.Submenus.Tools.WebsiteDarkMode.On.Title.v137" = "ਵੈੱਬਸਾਈਟ ਦੇ ਗੂੜ੍ਹੇ ਮੋਡ ਨੂੰ ਚਾਲੂ ਕਰੋ";
-
 /* On the main menu, the title for the action that indicate, website dark mode can be turned on or off. */
 "MainMenu.Submenus.Tools.WebsiteDarkMode.Title.v141" = "ਵੈੱਬਸਾਈਟ ਗੂੜ੍ਹਾ ਢੰਗ";
 

@@ -1,11 +1,11 @@
+/* iOS Home screen shortcut menu: Option to launch the app to the app icon customization screen */
+"App Icon" = "Нишонаи барнома";
+
 /* (No Comment) */
 "New Private Tab" = "Варақаи хусусии нав";
 
 /* (No Comment) */
 "New Tab" = "Варақаи нав";
-
-/* Privacy - Camera Usage Description */
-"NSCameraUsageDescription" = "Браузери «Firefox» барои тасвирбардорӣ кардани рамзҳои «QR», гирифтани акс ва видео камераи шуморо истифода мебарад.";
 
 /* Privacy - Face ID Usage Description */
 "NSFaceIDUsageDescription" = "Браузери «Firefox» барои пайдо кардани дастрасӣ ба ниҳонвожаҳои нигоҳдошташуда ва тарзҳои пардохт, низоми «Face ID»-ро талаб мекунад.";
