@@ -1,11 +1,11 @@
+/* iOS Home screen shortcut menu: Option to launch the app to the app icon customization screen */
+"App Icon" = "აპის ხატულა";
+
 /* (No Comment) */
 "New Private Tab" = "ახალი პირადი ჩანართი";
 
 /* (No Comment) */
 "New Tab" = "ახალი ჩანართი";
-
-/* Privacy - Camera Usage Description */
-"NSCameraUsageDescription" = "საშუალებას გაძლევთ, სურათის გადაღებისა და ატვირთვის.";
 
 /* Privacy - Face ID Usage Description */
 "NSFaceIDUsageDescription" = "Firefox-ს ესაჭიროება Face ID შენახულ პაროლებსა და გადახდის საშუალებებთან წდვომისთვის.";
@@ -18,9 +18,6 @@
 
 /* Privacy - Photo Library Additions Usage Description */
 "NSPhotoLibraryAddUsageDescription" = "სურათების შენახვის საშუალებას იძლევა.";
-
-/* Privacy - Speech Recognition Usage Description */
-"NSSpeechRecognitionUsageDescription" = "Firefox მეტყველების ამომცნობს იყენებს თქვენი ხმის საძიებო ტექსტად ქცევისთვის.";
 
 /* (No Comment) */
 "Scan QR Code" = "QR კოდის წაკითხვა";

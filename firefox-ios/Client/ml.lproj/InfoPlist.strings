@@ -1,11 +1,11 @@
+/* iOS Home screen shortcut menu: Option to launch the app to the app icon customization screen */
+"App Icon" = "പ്രയോഗ അടയാളം";
+
 /* (No Comment) */
 "New Private Tab" = "പുതിയ സ്വകാര്യ ടാബ്";
 
 /* (No Comment) */
 "New Tab" = "പുതിയ ടാബ്";
-
-/* Privacy - Camera Usage Description */
-"NSCameraUsageDescription" = "Firefox uses your camera to scan QR codes and take photos and video.";
 
 /* Privacy - Face ID Usage Description */
 "NSFaceIDUsageDescription" = "താങ്ങളുടെ കരുതിവച്ച പ്രവേശിക്കലുകൾ ഉപയോഗിക്കാൻ ഫയർഫോക്സിന് മുഖതിരിച്ചറിയൽരേഖ ആവശ്യമാണ്.";
