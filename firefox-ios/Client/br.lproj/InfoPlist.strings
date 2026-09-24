@@ -1,11 +1,11 @@
+/* iOS Home screen shortcut menu: Option to launch the app to the app icon customization screen */
+"App Icon" = "Arlun an arload";
+
 /* (No Comment) */
 "New Private Tab" = "Ivinell prevez nevez";
 
 /* (No Comment) */
 "New Tab" = "Ivinell nevez";
-
-/* Privacy - Camera Usage Description */
-"NSCameraUsageDescription" = "Gant se e c’hallit kemer ha pellgas luc’hskeudennoù.";
 
 /* Privacy - Face ID Usage Description */
 "NSFaceIDUsageDescription" = "Face ID a zo rekis evit ma c’hallfe kaout Firefox ho kerioù-tremen enrollet hag ho toareoù paeañ.";
