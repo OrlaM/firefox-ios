@@ -1,9 +1,9 @@
 {
-    "url": "https://api.github.com/repos/FirefoxUX/acorn-icons/releases/334335973",
-    "assets_url": "https://api.github.com/repos/FirefoxUX/acorn-icons/releases/334335973/assets",
-    "upload_url": "https://uploads.github.com/repos/FirefoxUX/acorn-icons/releases/334335973/assets{?name,label}",
-    "html_url": "https://github.com/FirefoxUX/acorn-icons/releases/tag/v1.90.0",
-    "id": 334335973,
+    "url": "https://api.github.com/repos/FirefoxUX/acorn-icons/releases/396519691",
+    "assets_url": "https://api.github.com/repos/FirefoxUX/acorn-icons/releases/396519691/assets",
+    "upload_url": "https://uploads.github.com/repos/FirefoxUX/acorn-icons/releases/396519691/assets{?name,label}",
+    "html_url": "https://github.com/FirefoxUX/acorn-icons/releases/tag/v1.130.0",
+    "id": 396519691,
     "author": {
         "login": "cwzilla",
         "id": 87655586,
@@ -25,18 +25,18 @@
         "user_view_type": "public",
         "site_admin": false
     },
-    "node_id": "RE_kwDOI1CID84T7Y_l",
-    "tag_name": "v1.90.0",
+    "node_id": "RE_kwDOI1CID84XomkL",
+    "tag_name": "v1.130.0",
     "target_commitish": "main",
-    "name": "v1.90.0",
+    "name": "v1.130.0",
     "draft": false,
     "immutable": false,
     "prerelease": false,
-    "created_at": "2026-06-04T12:54:16Z",
-    "updated_at": "2026-06-04T12:55:22Z",
-    "published_at": "2026-06-04T12:55:22Z",
+    "created_at": "2026-09-25T10:40:25Z",
+    "updated_at": "2026-09-25T10:41:20Z",
+    "published_at": "2026-09-25T10:41:20Z",
     "assets": [],
-    "tarball_url": "https://api.github.com/repos/FirefoxUX/acorn-icons/tarball/v1.90.0",
-    "zipball_url": "https://api.github.com/repos/FirefoxUX/acorn-icons/zipball/v1.90.0",
-    "body": "# [Changelog]\r\n### [1.90.0]\r\n### Added\r\n#### Desktop\r\n- SVG\r\n  - lock-slash-duotone-16.svg\r\n  - shield-slash-duotone-16.svg"
+    "tarball_url": "https://api.github.com/repos/FirefoxUX/acorn-icons/tarball/v1.130.0",
+    "zipball_url": "https://api.github.com/repos/FirefoxUX/acorn-icons/zipball/v1.130.0",
+    "body": "# [Changelog]\r\n### [v1.130.0]\r\n### Added\r\n#### Mobile\r\n\r\n- PDF\r\n  - deselectAllLarge.pdf\r\n  - selectAllLarge.pdf"
 }
